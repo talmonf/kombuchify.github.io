@@ -15,7 +15,7 @@ const config = {
 	favicon: 'img/favicon.ico',
 	organizationName: 'iPurpl3x',
 	projectName: 'iPurpl3x.github.io',
-	deploymentBranch: 'master',
+	deploymentBranch: 'gh-pages',
 	trailingSlash: false,
 
 	presets: [
