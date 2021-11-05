@@ -1,5 +1,5 @@
 ---
 id: how-to
 slug: /
-title: How to do Kombucha
+title: How to do kombucha
 ---
