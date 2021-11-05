@@ -9,7 +9,7 @@ const config = {
 	title: 'kombuchify',
 	tagline: 'Kombucha is life',
 	url: 'https://iPurpl3x.github.io',
-	baseUrl: '/kombuchify/',
+	baseUrl: '/',
 	onBrokenLinks: 'throw',
 	onBrokenMarkdownLinks: 'warn',
 	favicon: 'img/favicon.ico',
