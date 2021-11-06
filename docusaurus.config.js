@@ -40,6 +40,10 @@ const config = {
 		({
 			navbar: {
 				title: 'kombuchify',
+				logo: {
+					alt: 'kombuchify Logo',
+					src: 'img/logo.png',
+				},
 			},
 			footer: {
 				style: 'dark',
