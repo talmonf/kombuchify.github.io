@@ -8,13 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
 	title: 'kombuchify',
 	tagline: 'Kombucha is life',
-	url: 'https://iPurpl3x.github.io',
+	url: 'https://kombuchify.github.io',
 	baseUrl: '/',
 	onBrokenLinks: 'throw',
 	onBrokenMarkdownLinks: 'warn',
 	favicon: 'img/favicon.png',
-	organizationName: 'iPurpl3x',
-	projectName: 'iPurpl3x.github.io',
+	organizationName: 'kombuchify',
+	projectName: 'kombuchify.github.io',
 	deploymentBranch: 'gh-pages',
 	trailingSlash: false,
 
@@ -26,7 +26,7 @@ const config = {
 				docs: {
 					routeBasePath: '/',
 					sidebarPath: require.resolve('./sidebars.js'),
-					editUrl: 'https://github.com/iPurpl3x/kombuchify/tree/master/',
+					editUrl: 'https://github.com/kombuchify/kombuchify/tree/master/',
 				},
 				theme: {
 					customCss: require.resolve('./src/css/custom.css'),
