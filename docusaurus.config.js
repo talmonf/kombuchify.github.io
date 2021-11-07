@@ -7,7 +7,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
 	title: 'kombuchify',
-	tagline: 'Kombucha is life',
 	url: 'https://kombuchify.github.io',
 	baseUrl: '/',
 	onBrokenLinks: 'throw',
@@ -26,7 +25,7 @@ const config = {
 				docs: {
 					routeBasePath: '/',
 					sidebarPath: require.resolve('./sidebars.js'),
-					editUrl: 'https://github.com/kombuchify/kombuchify/tree/master/',
+					editUrl: 'https://github.com/kombuchify/kombuchify.github.io/tree/master/',
 				},
 				theme: {
 					customCss: require.resolve('./src/css/custom.css'),
