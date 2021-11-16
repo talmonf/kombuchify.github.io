@@ -51,7 +51,7 @@ the SCOBY stays safe and so that the person can easily start his brewing.
 
 <details><summary>🇨🇭 Advice for people living in Switzerland</summary>
 
-Join [this Telegram group](t.me/scobysch) chat to find and share free SCOBYs locally!
+Join [this Telegram group](https://t.me/scobysch) chat to find and share free SCOBYs locally!
 
 ![t.me/scobysch QR code](./../static/img/t.me-scobysch.jpeg)
 
