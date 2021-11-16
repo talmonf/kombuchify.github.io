@@ -1,7 +1,7 @@
 ---
 id: how-to
 slug: /
-title: 📖 How to
+title: 📖 How to make Kombucha
 ---
 
 ## 📌 Simple recipe
@@ -15,10 +15,10 @@ read the 🔬 [Detailed instructions](/#-detailed-instructions).**
 
 ### 🥣 Preparation
 
-_(For a 3L container)_
+_(For a 3L [container](/tools-and-gear#container))_
 
-1. Container with
-    - a **SCOBY**
+1. [container](/tools-and-gear#container) with
+    - a **[SCOBY](/tools-and-gear#scoby)**
     - 1 cup of fermented **kombucha**
 2. **1L** of black tea (room temperature)
 3. **80g** of sugar
@@ -51,11 +51,12 @@ work with.
 
 In a very minimal set up you will need:
 
--   A big glas container
--   A SCOBY
+-   A big glas [container](/tools-and-gear#container)
+-   A [SCOBY](/tools-and-gear#scoby)
 -   1 cup (~ 250mL) of kombucha
 -   Bottles for storing kombucha
--   Something to cover the container (cloth, coffee filter...)
+-   [Something to cover the container](/tools-and-gear#something-to-cover-the-container) (cloth,
+    coffee filter...)
 -   A rubber band
 -   Black tea
 -   Sugar
@@ -104,14 +105,14 @@ Visit [this page](/tools-and-gear) to find advices on how to chose your tools an
 
 :::info
 
-These instructions are for a 3L container, if you are using a container of a different size, make
-the required adjustments to the quantities.
+These instructions are for a 3L [container](/tools-and-gear#container), if you are using a container
+of a different size, make the required adjustments to the quantities.
 
 :::
 
-1. Prepare an empty (and clean) container with
+1. Prepare an empty (and clean) [container](/tools-and-gear#container) with
 
-    - a **SCOBY**
+    - a **[SCOBY](/tools-and-gear#scoby)**
     - 1 cup of fermented **kombucha**
         - The kombucha that is required here is for the SCOBY: it needs to have a minimal sense of
           "home feeling" so that the fermentation can start.
