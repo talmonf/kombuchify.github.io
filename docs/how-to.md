@@ -33,7 +33,7 @@ _(For a 3L [container](/tools-and-gear#container))_
 
 ### 🍺 Enjoy
 
-1. Pour kombucha into bottles for storage
+1. Pour kombucha into [bottles](/tools-and-gear#bottles-for-storing-kombucha) for storage
 2. Put the SCOBY and 1 cup of kombucha aside
 3. Clean the container
 4. Restart a [new cycle](/#-preparation).
@@ -54,7 +54,7 @@ In a very minimal set up you will need:
 -   A big glas [container](/tools-and-gear#container)
 -   A [SCOBY](/tools-and-gear#scoby)
 -   1 cup (~ 250mL) of kombucha
--   Bottles for storing kombucha
+-   [Bottles](/tools-and-gear#bottles-for-storing-kombucha) for storing kombucha
 -   [Something to cover the container](/tools-and-gear#something-to-cover-the-container) (cloth,
     coffee filter...)
 -   A rubber band
@@ -208,7 +208,7 @@ Now that your kombucha has fermented, you can start a new cycle.
       [2nd Fermentation](/2nd-fermentation) and therefore you want it to be evenly distributed in
       the different bottles used for storage or 2nd fermentation.
 
-3. Pour out the fermented kombucha into bottles to store it
+3. Pour out the fermented kombucha into [bottles](/tools-and-gear#bottles-for-storing-kombucha) to store it
 
     - To stop (or better said _slow down_) the fermentation, put the bottles into your fridge or a
       cold spot.
