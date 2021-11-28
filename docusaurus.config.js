@@ -27,6 +27,7 @@ const config = {
 					sidebarPath: require.resolve('./sidebars.js'),
 					editUrl: 'https://github.com/kombuchify/kombuchify.github.io/tree/master/',
 				},
+				blog: false,
 				theme: {
 					customCss: require.resolve('./src/css/custom.css'),
 				},
@@ -43,6 +44,12 @@ const config = {
 					alt: 'kombuchify Logo',
 					src: 'img/logo.png',
 				},
+				items: [
+					{
+						type: 'localeDropdown',
+						position: 'right',
+					},
+				],
 			},
 			footer: {
 				style: 'dark',
@@ -53,6 +60,21 @@ const config = {
 				darkTheme: darkCodeTheme,
 			},
 		}),
+
+	i18n: {
+		defaultLocale: 'en',
+		locales: ['en', 'de'],
+		localeConfigs: {
+			en: {
+				label: 'English',
+				direction: 'ltr',
+			},
+			de: {
+				label: 'Deutsch',
+				direction: 'ltr',
+			},
+		},
+	},
 };
 
 module.exports = config;

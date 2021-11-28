@@ -1,78 +1,78 @@
 ---
 id: how-to
 slug: /
-title: 📖 How to make Kombucha
+title: 📖 Wie man Kombucha macht
 ---
 
-## 📌 Simple recipe
+## 📌 Einfaches Rezept
 
 :::tip
 
-**If you are not yet familiar with the process of brewing kombucha, it's advised to first carefully
-read the 🔬 [Detailed instructions](/#-detailed-instructions).**
+**Wenn du noch nicht mit dem Kombucha machen vertraut bist, ist es ratsam, zuerst sorgfältig die 🔬
+[Detaillierte Anleitung](/#-detailed-instructions) zu lesen.**
 
 :::
 
-### 🥣 Preparation
+### 🥣 Vorbereitung
 
-_(For a 3L [container](/equipment#container))_
+_(Für einen 3L-[Behälter](/equipment#container))_
 
-1. [container](/equipment#container) with
-    - a **[SCOBY](/equipment#scoby)**
-    - 1 cup of fermented **kombucha** (⚠️ unflavored!)
-2. **1L** of black tea (room temperature)
-3. **80g** of sugar
-4. Mix **sugar and tea**
-5. Pour the mix into the container
-6. Fill the rest of the container with **water**
+1. [Behälter](/equipment#container) mit
+    - ein **[SCOBY](/equipment#scoby)**
+    - 1 Tasse fermentierter **Kombucha** (⚠️ ohne Zusatz von Geschmacksstoffen!)
+2. **1L** Schwarztee (Zimmertemperatur)
+3. **80g** Zucker
+4. **Zucker und Tee** mischen
+5. Die Mischung in den Behälter giessen
+6. Den Rest des Behälters mit **Wasser** auffüllen
 
-### 🧘🏻 Fermentation
+### 🧘🏻 Gärung
 
-1. Cover the container
-2. Ferment for 7 days
+1. Den Behälter zudecken
+2. 7 Tage lang gären
 
-### 🍺 Enjoy
+### 🍺 Geniessen
 
-1. Pour kombucha into [bottles](/equipment#bottles-for-storing-kombucha) for storage
-2. Put the SCOBY and 1 cup of kombucha aside
-3. Clean the container
-4. Restart a [new cycle](/#-preparation).
+1. Kombucha zur Aufbewahrung in [Flaschen](/equipment#bottles-for-storing-kombucha) abfüllen
+2. Den SCOBY und 1 Tasse Kombucha beiseite stellen
+3. Den Behälter reinigen
+4. Einen [neuen Zyklus](/#-vorbereitung) starten.
 
-### Bonus: 🍾 [2nd fermentation](/2nd-fermentation)
+### Bonus: 🍾 [Die zweite Gärung](/2nd-fermentation)
 
-## 🔬 Detailed instructions
+## 🔬 Detaillierte Anleitung
 
-### 🪧 Introduction and prerequisites
+### 🪧 Einführung und Voraussetzungen
 
-Brewing kombucha is very simple, yet it requires some basic knowledge and some good equipment to
-work with.
+Das Brauen von Kombucha ist sehr einfach, erfordert aber einige Grundkenntnisse und eine gute
+Ausrüstung.
 
-#### 🛠 [Equipment](/equipment)
+#### 🛠 [Ausrüstung](/equipment)
 
-In a very minimal set up you will need:
+Für eine sehr minimale Einrichtung benötigst du:
 
--   A big glas [container](/equipment#container)
--   A [SCOBY](/equipment#scoby)
--   1 cup (~ 250mL) of kombucha
--   [Bottles](/equipment#bottles-for-storing-kombucha) for storing kombucha
--   [Something to cover the container](/equipment#something-to-cover-the-container) (cloth, coffee
-    filter...)
--   A rubber band
--   Black tea
--   Sugar
--   Water
+-   Ein grosser [Glasbehälter](/equipment#container)
+-   Ein [SCOBY](/equipment#scoby)
+-   1 Tasse (~ 250 ml) Kombucha
+-   [Flaschen](/equipment#bottles-for-storing-kombucha) zur Aufbewahrung von Kombucha
+-   [Etwas zum Abdecken des Behälters](/equipment#something-to-cover-the-container) (Tuch,
+    Kaffeefilter...)
+-   Ein Gummiband
+-   Schwarztee
+-   Zucker
+-   Wasser
 
-Optionally you could use these tools for working more comfortably:
+Optional kannst du diese Werkzeuge für ein bequemeres Arbeiten verwenden:
 
--   A funnel
--   A fine mesh food strainer
--   A scale for weighting the sugar
--   A container for mixing tea and sugar
--   A whisk
+-   Ein Trichter
+-   Ein feinmaschiges Lebensmittelsieb
+-   Eine Waage zum Abwiegen des Zuckers
+-   Ein Behälter zum Mischen von Tee und Zucker
+-   Ein Schwingbesen
 
-:::note info
+:::note Info
 
-Visit [this page](/equipment) to find advices on how to chose your equipment.
+[Hier](/equipment) findest du Tipps für die Auswahl deiner Ausrüstung.
 
 :::
 
@@ -104,8 +104,8 @@ Visit [this page](/equipment) to find advices on how to chose your equipment.
 
 :::info
 
-These instructions are for a 3L [container](/equipment#container), if you are using a container of a
-different size, make the required adjustments to the quantities.
+These instructions are for a 3L [container](/equipment#container), if you are using a container
+of a different size, make the required adjustments to the quantities.
 
 :::
 
@@ -139,7 +139,7 @@ different size, make the required adjustments to the quantities.
 
     <br/>
 
-    :::caution warning
+    :::caution waring
 
     Do not use anything else than sugar to add the sweetness. The SCOBY feeds on the sugar and it
     cannot feed on anything else.
@@ -208,8 +208,8 @@ Now that your kombucha has fermented, you can start a new cycle.
       [2nd Fermentation](/2nd-fermentation) and therefore you want it to be evenly distributed in
       the different bottles used for storage or 2nd fermentation.
 
-3. Pour out the fermented kombucha into [bottles](/equipment#bottles-for-storing-kombucha) to store
-   it
+3. Pour out the fermented kombucha into [bottles](/equipment#bottles-for-storing-kombucha) to
+   store it
 
     - To stop (or better said _slow down_) the fermentation, put the bottles into your fridge or a
       cold spot.
