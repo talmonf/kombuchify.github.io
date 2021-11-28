@@ -15,10 +15,10 @@ read the 🔬 [Detailed instructions](/#-detailed-instructions).**
 
 ### 🥣 Preparation
 
-_(For a 3L [container](/tools-and-gear#container))_
+_(For a 3L [container](/equipment#container))_
 
-1. [container](/tools-and-gear#container) with
-    - a **[SCOBY](/tools-and-gear#scoby)**
+1. [container](/equipment#container) with
+    - a **[SCOBY](/equipment#scoby)**
     - 1 cup of fermented **kombucha** (⚠️ unflavored!)
 2. **1L** of black tea (room temperature)
 3. **80g** of sugar
@@ -33,7 +33,7 @@ _(For a 3L [container](/tools-and-gear#container))_
 
 ### 🍺 Enjoy
 
-1. Pour kombucha into [bottles](/tools-and-gear#bottles-for-storing-kombucha) for storage
+1. Pour kombucha into [bottles](/equipment#bottles-for-storing-kombucha) for storage
 2. Put the SCOBY and 1 cup of kombucha aside
 3. Clean the container
 4. Restart a [new cycle](/#-preparation).
@@ -44,19 +44,19 @@ _(For a 3L [container](/tools-and-gear#container))_
 
 ### 🪧 Introduction and prerequisites
 
-Brewing kombucha is very simple, yet it requires some basic knowledge and some tools and gear to
+Brewing kombucha is very simple, yet it requires some basic knowledge and some good equipment to
 work with.
 
-#### 🛠 [Tools and gear](/tools-and-gear)
+#### 🛠 [Equipment](/equipment)
 
 In a very minimal set up you will need:
 
--   A big glas [container](/tools-and-gear#container)
--   A [SCOBY](/tools-and-gear#scoby)
+-   A big glas [container](/equipment#container)
+-   A [SCOBY](/equipment#scoby)
 -   1 cup (~ 250mL) of kombucha
--   [Bottles](/tools-and-gear#bottles-for-storing-kombucha) for storing kombucha
--   [Something to cover the container](/tools-and-gear#something-to-cover-the-container) (cloth,
-    coffee filter...)
+-   [Bottles](/equipment#bottles-for-storing-kombucha) for storing kombucha
+-   [Something to cover the container](/equipment#something-to-cover-the-container) (cloth, coffee
+    filter...)
 -   A rubber band
 -   Black tea
 -   Sugar
@@ -72,7 +72,7 @@ Optionally you could use these tools for working more comfortably:
 
 :::note info
 
-Visit [this page](/tools-and-gear) to find advices on how to chose your tools and gear.
+Visit [this page](/equipment) to find advices on how to chose your equipment.
 
 :::
 
@@ -104,14 +104,14 @@ Visit [this page](/tools-and-gear) to find advices on how to chose your tools an
 
 :::info
 
-These instructions are for a 3L [container](/tools-and-gear#container), if you are using a container
-of a different size, make the required adjustments to the quantities.
+These instructions are for a 3L [container](/equipment#container), if you are using a container of a
+different size, make the required adjustments to the quantities.
 
 :::
 
-1.  Prepare an empty (and clean) [container](/tools-and-gear#container) with
+1.  Prepare an empty (and clean) [container](/equipment#container) with
 
-    -   a **[SCOBY](/tools-and-gear#scoby)**
+    -   a **[SCOBY](/equipment#scoby)**
     -   1 cup (~ 250mL) of fermented **kombucha** (⚠️ unflavored!)
         -   The kombucha that is required here is for the SCOBY: it needs to have a minimal sense of
             "home feeling" so that the fermentation can start.
@@ -177,7 +177,7 @@ The fermentation process is the most simple one, it just requires a little bit o
 
     - To cover the container use a cloth, coffee filter or anything that prevents dust or bacteria
       to get into the container while it is fermenting, see
-      [this page](/tools-and-gear#something-to-cover-the-container) for detailed advice.
+      [this page](/equipment#something-to-cover-the-container) for detailed advice.
 
 2. Let the kombucha ferment for 7 days.
 
@@ -208,7 +208,8 @@ Now that your kombucha has fermented, you can start a new cycle.
       [2nd Fermentation](/2nd-fermentation) and therefore you want it to be evenly distributed in
       the different bottles used for storage or 2nd fermentation.
 
-3. Pour out the fermented kombucha into [bottles](/tools-and-gear#bottles-for-storing-kombucha) to store it
+3. Pour out the fermented kombucha into [bottles](/equipment#bottles-for-storing-kombucha) to store
+   it
 
     - To stop (or better said _slow down_) the fermentation, put the bottles into your fridge or a
       cold spot.

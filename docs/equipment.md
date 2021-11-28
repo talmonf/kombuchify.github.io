@@ -1,7 +1,7 @@
 ---
-id: tools-and-gear
-slug: /tools-and-gear
-title: 🛠 Tools & gear
+id: equipment
+slug: /equipment
+title: 🛠 Equipment
 ---
 
 ## Container
@@ -80,7 +80,7 @@ The **Bormioli Rocco - Officina 1825** can easily be found in (big) MIGROS store
 
 ## Something to cover the container
 
-While doing the first fermentation, the [container](/tools-and-gear#container) needs to be protected
+While doing the first fermentation, the [container](/equipment#container) needs to be protected
 from dust, mold and foreign bacteria...
 
 Also the fermentation process need to _breath_ so it is not good to completely close the container

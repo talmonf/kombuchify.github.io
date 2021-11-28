@@ -25,12 +25,12 @@ inventing the nicest, healthiest and fanciest soda-like beverage that ever exist
 ## 📖 Instructions
 
 1. [Make some kombucha](/#-simple-recipe) and fill it into a
-   [bottle](/tools-and-gear#bottles-for-storing-kombucha) that holds pressure.
+   [bottle](/equipment#bottles-for-storing-kombucha) that holds pressure.
 2. Prepare your flavoring ingredient(s). Check out some ideas
    [here below](/2nd-fermentation#-ideas).
 
     - For fruits, slice them so that they fit into the opening of the
-      [bottle](/tools-and-gear#bottles-for-storing-kombucha).
+      [bottle](/equipment#bottles-for-storing-kombucha).
 
 3. Put your ingredients into the bottle. Using a whisk might be very handy here.
 
