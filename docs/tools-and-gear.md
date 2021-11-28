@@ -11,7 +11,7 @@ The main container is used for the first fermentation.
 How to chose a good container:
 
 -   Big enough (more than 2L). There no container that is too big!
--   Material: glas or ceramic
+-   Material: glas or ceramic, but preferably glas, so that you can see what's happening inside!
 -   A big enough opening on the top
 
 Our choice:
@@ -28,8 +28,8 @@ The **Bormioli Rocco - 3L Fido Glass Jar** can easily be found in (big) MIGROS s
 
 :::note What is a SCOBY?...
 
-SCOBY is the commonly used acronym for "Symbiotic Culture of Bacteria and Yeast". **Learn more on
-[Wikipedia](https://en.wikipedia.org/wiki/SCOBY).**
+SCOBY is the commonly used acronym for "Symbiotic Culture of Bacteria and Yeast". <br/>
+**[Learn more on Wikipedia](https://en.wikipedia.org/wiki/SCOBY).**
 
 :::
 
@@ -44,12 +44,12 @@ brewing quantity or give away pieces of your SCOBY to friends and family!
 
 To take of a piece of a SCOBY that _grew fat_ you just need to gently peel of a layer.
 
-If giving it away don't forget to give also roughly one cup of already fermented Kombucha so that
+If giving it away don't forget to give also roughly one cup of already fermented kombucha so that
 the SCOBY stays safe and so that the person can easily start his brewing.
 
 :::
 
-<details><summary>🇨🇭 Advice for people living in Switzerland</summary>
+<details><summary>🇨🇭 Online chat group for sharing SCOBYs in Switzerland</summary>
 
 Join [this Telegram group](https://t.me/scobysch) chat to find and share free SCOBYs locally!
 
