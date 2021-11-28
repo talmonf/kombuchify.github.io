@@ -19,7 +19,7 @@ _(For a 3L [container](/tools-and-gear#container))_
 
 1. [container](/tools-and-gear#container) with
     - a **[SCOBY](/tools-and-gear#scoby)**
-    - 1 cup of fermented **kombucha**
+    - 1 cup of fermented **kombucha** (⚠️ unflavored!)
 2. **1L** of black tea (room temperature)
 3. **80g** of sugar
 4. Mix **sugar and tea**
@@ -47,7 +47,7 @@ _(For a 3L [container](/tools-and-gear#container))_
 Brewing kombucha is very simple, yet it requires some basic knowledge and some tools and gear to
 work with.
 
-#### 🛠 Tools and gear
+#### 🛠 [Tools and gear](/tools-and-gear)
 
 In a very minimal set up you will need:
 
@@ -85,11 +85,10 @@ Visit [this page](/tools-and-gear) to find advices on how to chose your tools an
 
 -   Only use organic ingredients
 
-    -   As kombucha is kind of a living organism, it is best ot feed it exclusively with organic
-        products. If you're not convinced, try both and see the difference in taste and feeling for
-        yourself.
+    -   As kombucha is kind of a living organism, it is best to feed it exclusively with organic
+        products. If you're not convinced, try both and see the difference in taste and feeling.
 
--   Use clean water
+-   Use clean drinking water
 
     -   If the water from you sink isn't clean (if it contains chlorine or other nasty things) it
         might disturb the SCOBY. Try to find a filter or another source of clean drinking water.
@@ -97,7 +96,7 @@ Visit [this page](/tools-and-gear) to find advices on how to chose your tools an
 -   Chose a good spot for your fermentation
 
     -   No direct sun-light
-    -   The air must circulate normally
+    -   The air must circulate normally (avoid putting it inside of cupboard)
     -   Not too cold (room temperature is perfect)
     -   Not too warm
 
@@ -110,30 +109,35 @@ of a different size, make the required adjustments to the quantities.
 
 :::
 
-1. Prepare an empty (and clean) [container](/tools-and-gear#container) with
+1.  Prepare an empty (and clean) [container](/tools-and-gear#container) with
 
-    - a **[SCOBY](/tools-and-gear#scoby)**
-    - 1 cup of fermented **kombucha**
-        - The kombucha that is required here is for the SCOBY: it needs to have a minimal sense of
-          "home feeling" so that the fermentation can start.
-        - 1 cup is the minimum, if there is a bit more than that it's totally fine
+    -   a **[SCOBY](/tools-and-gear#scoby)**
+    -   1 cup (~ 250mL) of fermented **kombucha** (⚠️ unflavored!)
+        -   The kombucha that is required here is for the SCOBY: it needs to have a minimal sense of
+            "home feeling" so that the fermentation can start.
+        -   1 cup is the minimum, if there is a bit more than that it's totally fine
 
-2. Make **1L** of black tea
+2.  Make **1L** of black tea
 
-    - Use something like 3 to 4 bags of tea per Liter.
-    - Other teas (like green tea) are also possible to use, but it is advised to start with black
-      tea as it is the easiest.
+    -   Use something like 3 to 4 bags of tea per Liter. Basically one bag per cup.
+    -   Other teas (like green tea) are also possible to use, but it is advised to start with black
+        tea as it is the easiest. <br/>⚠️**Kombucha needs theine**.
 
-3. Let the tea steep for a good while (at least 20 minutes)
+3.  Let the tea steep for a good while (at least 20 minutes)
 
-4. Wait that the tea is at room temperature, or do something to cool it down.
+    -   Cold brewed teas work a well. Then obviously you will need to let it steep for a longer
+        period.
 
-5. Strain the tea
+4.  Wait that the tea is at room temperature, or do something to cool it down quickly (ice bath).
 
-6. Add **80g** of sugar (per Liter)
+5.  Strain the tea
 
-    - Any sugar will do
-    - Best is to use organic cane sugar
+6.  Add **80g** of sugar (per Liter)
+
+    -   Any sugar will do
+    -   Best is to use organic cane sugar
+
+    <br/>
 
     :::caution waring
 
@@ -142,25 +146,28 @@ of a different size, make the required adjustments to the quantities.
 
     :::
 
-    :::tip info
+    :::tip No more sugar left at the end!
 
     After the fermentation there will be **no more sugar** left in the kombucha. So you are safe to
     drink it even if you want to avoid sugar in your diet.
 
     :::
 
-7. Mix the sugar and the tea
+    <br/>
 
-    - Use a whisk to mix the sugar into the tea and to dilute it.
-    - If you have multiples batches to prepare, it is better to mix the sugar and the tea in a
-      different container to make sure that you have exactly 1L of tea and 80g of sugar.
+7.  Mix the sugar and the tea
 
-8. Pour the mixed sugar and tea into the fermentation container
+    -   Use a whisk to mix the sugar into the tea and to dilute it.
+    -   If you have multiples batches to prepare, it is better to mix the sugar and the tea in a
+        different container to make sure that you have exactly 1L of tea and 80g of sugar.
+    -   It is also possible to mix the sugar and the tea while the tea is still hot.
 
-9. Fill the rest of the container with **water**
-    - Most containers have a curved border at the top. Leave the curved part empty so that the SCOBY
-      (usually floating on at the top of the liquid) can fill out the full width of the container
-      while it is fermenting
+8.  Pour the mixed sugar and tea into the fermentation container
+
+9.  Fill the rest of the container with **water**
+    -   Most containers have a curved border at the top. Leave the curved part empty so that the
+        SCOBY (usually floating on at the top of the liquid) can fill out the full width of the
+        container while it is fermenting
 
 ### 🧘🏻 Fermentation
 
@@ -169,8 +176,8 @@ The fermentation process is the most simple one, it just requires a little bit o
 1. Cover the container where you have prepared your brewing mixture.
 
     - To cover the container use a cloth, coffee filter or anything that prevents dust or bacteria
-      to get into the container while it is fermenting, see [this page](/tools-and-gear) for
-      detailed advice.
+      to get into the container while it is fermenting, see
+      [this page](/tools-and-gear#something-to-cover-the-container) for detailed advice.
 
 2. Let the kombucha ferment for 7 days.
 
@@ -186,8 +193,8 @@ The fermentation process is the most simple one, it just requires a little bit o
 
 4. Sometimes the fermentation produces a lot of gas. When that happens, the SCOBY might get lifted
    into the air by a big bubble of gas. It is god to pop out that bubble to let the SCOBY touch the
-   liquid. So observe it and to release that bubble once or twice a day if necessary. Use a clean
-   spoon to push down the SCOBY into the liquid.
+   liquid. So if necessary release that bubble once or twice a day. Use a clean spoon to push down
+   the SCOBY into the liquid.
 
 ### 🍺 Enjoy your fresh kombucha
 
