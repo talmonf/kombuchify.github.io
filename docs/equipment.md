@@ -80,8 +80,8 @@ The **Bormioli Rocco - Officina 1825** can easily be found in (big) MIGROS store
 
 ## Something to cover the container
 
-While doing the first fermentation, the [container](/equipment#container) needs to be protected
-from dust, mold and foreign bacteria...
+While doing the first fermentation, the [container](/equipment#container) needs to be protected from
+dust, mold and foreign bacteria...
 
 Also the fermentation process need to _breath_ so it is not good to completely close the container
 in wich the first fermentation is happening.
