@@ -32,7 +32,7 @@ inventing the nicest, healthiest and fanciest soda-like beverage that ever exist
     - For fruits, slice them so that they fit into the opening of the
       [bottle](/equipment#bottles-for-storing-kombucha).
 
-3. Put your ingredients into the bottle. Using a whisk might be very handy here.
+3. Put your ingredients into the bottle. Using a funnel might be very handy here.
 
 4. Leave the bottle to ferment for 2 to 3 days.
 

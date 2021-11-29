@@ -1,92 +1,94 @@
 ---
 id: 2nd-fermentation
 slug: /2nd-fermentation
-title: 🍾 2nd Fermentation
+title: 🍾 Zweite Gärung
 ---
 
-## 🗝 The principle
+## 🗝 Das Prinzip
 
 :::tip
 
-_For flavour ideas, **[jump down to that section immediately](/2nd-fermentation#-ideas)**._
+_Für Geschmacksideen, **[springen Sie sofort zu diesem Abschnitt](/2nd-fermentation#-ideen)**._
 
 :::
 
-After 7 days of fermenting your kombucha, you have a very nicely tasting drink. **But there is more,
-and there is better!**
+Nach 7 Tagen der Gärung deines Kombuchas hast du ein sehr gut schmeckendes Getränk. **Aber es gibt
+mehr, und es gibt besser!**
 
-It is very easy to add custom flavors to your home-made kombucha. All that needs to be done is let
-the kombucha ferment for a few days more with some added fruits or anything that might give a nice
-flavor to your kombucha.
+Es ist sehr einfach, deinem selbstgemachten Kombucha eigene Geschmäcker zu geben. Alles, was du tun
+musst, ist, den Kombucha ein paar Tage länger gären zu lassen und ihm Früchte oder andere Dinge
+hinzuzufügen, die deinem Kombucha einen tollen Geschmack geben können.
 
-In addition to flavor, the second fermentation will make the drink more sparkling! You might end up
-inventing the nicest, healthiest and fanciest soda-like beverage that ever existed!
+Die zweite Gärung bringt nicht nur mehr Geschmack, sondern macht das Getränk auch prickelnder! Am
+Ende könntest du das schönste, gesündeste und ausgefallenste sodaähnliche Getränk erfinden, das es
+je gab!
 
 ## 📖 Instructions
 
-1. [Make some kombucha](/#-simple-recipe) and fill it into a
-   [bottle](/equipment#bottles-for-storing-kombucha) that holds pressure.
-2. Prepare your flavoring ingredient(s). Check out some ideas
-   [here below](/2nd-fermentation#-ideas).
+1. [Kombucha machen](/#-einfaches-rezept) und in eine
+   [Flasche](/equipment#flaschen-zur-lagerung-von-kombucha) füllen, die Druck aushält.
+2. Bereite deine geschmacksgebende(n) Zutat(en) vor. [Hier unten](/2nd-fermentation#-ideen) findest
+   du einige Ideen.
 
-    - For fruits, slice them so that they fit into the opening of the
-      [bottle](/equipment#bottles-for-storing-kombucha).
+    - Bei Früchten diese so schneiden, dass sie in die Öffnung der
+      [Flasche](/equipment#flaschen-zur-lagerung-von-kombucha) passen.
 
-3. Put your ingredients into the bottle. Using a whisk might be very handy here.
+3. Die Zutaten in die Flasche geben. Ein Trichter kann hier sehr nützlich sein.
 
-4. Leave the bottle to ferment for 2 to 3 days.
+4. Die Flasche 2 bis 3 Tage lang gären lassen.
 
-    - **Please read the [Cautions](/2nd-fermentation#%EF%B8%8F-cautions) ‼️**
+    - **Bitte die [Vorsichtsmaßnahmen](/2nd-fermentation#%EF%B8%8F-vorsichtsmaßnahmen) lesen ‼️**
 
-5. Enjoy 🍾🍺
+5. Genießen 🍾🍺
 
-## ⚠️ Cautions
+## ⚠️ Vorsichtsmaßnahmen
 
-**The process of second fermentation can generate (a lot‼️) of pressure.**
+**Der Prozess der zweiten Gärung kann (viel‼️) Druck erzeugen.**
 
-For that reason, to avoid accidents, take core of a few things while proceeding in this fermentation
-process:
+Um Unfälle zu vermeiden, solltest du daher bei der Gärung einige Dinge beachten:
 
--   Check the bottles several times a day and **carefully** let out some pressure if there is any.
+-   Überprüfe die Flaschen mehrmals am Tag und lasse **vorsichtig** etwas Druck ab, wenn es welchen
+    gibt.
 
--   Before serving kombucha that is ready, open the bottle **very carefully**. Sometimes it needs
-    some patience to release all the pressure that has been built up.
+-   Bevor du fertigen Kombucha servierst, öffne die Flasche **sehr vorsichtig**. Manchmal braucht es
+    etwas Geduld, um den ganzen Druck, der sich aufgebaut hat, abzulassen.
 
-    -   You need to find out for yourself how to best open those bottles that have a lot of pressure
-        without having a mess in your kitchen. One option is to use a big bowl, holding the bottle
-        downwards and slowly let everything out and then putting it back into the bottle. Use your
-        hand to contain the sprays that come out of the opening of the bottle.
+    -   Du musst selbst herausfinden, wie du Flaschen mit hohem Druck am besten öffnest, ohne dass
+        in deiner Küche eine Sauerei entsteht. Eine Möglichkeit ist, eine große Schüssel zu
+        benutzen, die Flasche nach unten zu halten und langsam alles herauszulassen und dann wieder
+        in die Flasche zu füllen. Benutze deine Hand, um die Spritzer, die aus der Öffnung der
+        Flasche kommen, aufzuhalten.
 
--   Put the bottles that have finished their fermentation into the fridge. This will help to lower
-    the pressure.
+-   Die Flaschen, die den Gärprozess abgeschlossen haben, werden in den Kühlschrank gestellt. Das
+    hilft, den Druck zu senken.
 
-**🍾 You have been warned!**
+**🍾 Du wurdest gewarnt!**
 
-## 💡 Ideas
+## 💡 Ideen
 
-Here is a list of ideas of what kind of ingredients could be used for flavouring your kombucha
-during the second fermentation:
+Hier findest du eine Liste mit Ideen, welche Zutaten du zum Aromatisieren deines Kombuchas während
+der zweiten Gärung verwenden kannst:
 
--   Any kind of fruits
+-   Jegliche Art von Obst
     -   Orange
-    -   Peach
-    -   Apricot
-    -   Apple
-    -   Cherries
-    -   Strawberries
+    -   Pfirsich
+    -   Aprikose
+    -   Apfel
+    -   Kirschen
+    -   Erdbeeren
     -   Mango
-    -   Pineapple
+    -   Ananas
     -   ...
--   Ginger
--   Turmeric (Kurkuma)
--   Cinnamon
--   Mint leaves
--   Hop (will make your kombucha taste like beer!)
--   Hibiscus
+-   Ingwer
+-   Gelbwurz (Kurkuma)
+-   Zimt
+-   Minzblätter
+-   Hopfen (damit Ihr Kombucha wie Bier schmeckt!)
+-   Hibiskus
 -   ...
 
-Obviously you can put multiple ingredients at once and make all kinds of mixes!
+Natürlich kannst du mehrere Zutaten auf einmal verwenden und alle möglichen Mischungen herstellen!
 
-Avoid anything that has a lot of fat, like avocado.
+Alles, was viel Fett enthält, wie z. B. Avocado, ist zu vermeiden.
 
-**Now get creative!**
+**Werde jetzt kreativ!**
