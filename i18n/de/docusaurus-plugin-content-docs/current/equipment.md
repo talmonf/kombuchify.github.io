@@ -1,99 +1,103 @@
 ---
 id: equipment
 slug: /equipment
-title: 🛠 Equipment
+title: 🛠 Ausrüstung
 ---
 
-## Container
+## Behälter
 
-The main container is used for the first fermentation.
+Der Hauptbehälter wird für die erste Gärung verwendet.
 
-How to chose a good container:
+Wie man einen guten Behälter auswählt:
 
--   Big enough (more than 2L). There no container that is too big!
--   Material: glas or ceramic, but preferably glas, so that you can see what's happening inside!
--   A big enough opening on the top
+-   Groß genug (mehr als 2L). Es gibt keinen Behälter, der zu groß ist!
+-   Material: Glas oder Keramik, aber vorzugsweise Glas, damit man prüfen kann, was darin passiert!
+-   Eine ausreichend große obere Öffnung
 
-Our choice:
-[Bormioli Rocco - 3L Fido Glass Jar](https://www.bormiolirocco.com/en/product/264/jar-101-1-2-oz-fido)
+Unsere Wahl:
+[Bormioli Rocco - 3L Fido Einmachglas](https://www.bormiolirocco.com/en/product/264/jar-101-1-2-oz-fido)
 
-<details><summary>🇨🇭 Advice for people living in Switzerland</summary>
+<details><summary>🇨🇭 Ratschläge für Leute, die in der Schweiz wohnen</summary>
 
-The **Bormioli Rocco - 3L Fido Glass Jar** can easily be found in (big) MIGROS stores.
+Das **Bormioli Rocco - 3L Fido Einmachglas** kann leicht in (großen) MIGROS-Filialen gekauft werden.
 [Link](https://produkte.migros.ch/bormioli-rocco-einmachglas-fido-703723200000).
 
 </details>
 
 ## SCOBY
 
-:::note What is a SCOBY?...
+:::note Was ist ein SCOBY?...
 
-SCOBY is the commonly used acronym for "Symbiotic Culture of Bacteria and Yeast". <br/>
-**[Learn more on Wikipedia](https://en.wikipedia.org/wiki/SCOBY).**
-
-:::
-
-To get a SCOBY, best is to find someone that you know who could give you one.
-
-Else you can very easily find one to buy online for a fair price.
-
-:::tip SCOBYs for everyone! 🎁
-
-Once you started your own Kombucha brewing, your SCOBY will grow and you can either increase your
-brewing quantity or give away pieces of your SCOBY to friends and family!
-
-To take of a piece of a SCOBY that _grew fat_ you just need to gently peel of a layer.
-
-If giving it away don't forget to give also roughly one cup of already fermented kombucha so that
-the SCOBY stays safe and so that the person can easily start his brewing.
+SCOBY ist die allgemein gebräuchliche Abkürzung für "Symbiotic Culture of Bacteria and Yeast". <br/>
+**[Weitere Informationen auf Wikipedia (Englisch)](https://en.wikipedia.org/wiki/SCOBY).**
 
 :::
 
-<details><summary>🇨🇭 Online chat group for sharing SCOBYs in Switzerland</summary>
+Um einen SCOBY zu bekommen, ist es am besten, jemanden zu finden, den du kennst und der dir einen
+geben kann.
 
-Join [this Telegram group](https://t.me/scobysch) chat to find and share free SCOBYs locally!
+Ansonsten können Sie sehr leicht online einen zu einem fairen Preis kaufen.
+
+:::tip SCOBYs für alle! 🎁
+
+Sobald du mit dem Brauen von Kombucha begonnen hast, wird dein SCOBY wachsen und du kannst entweder
+deine Braumenge erhöhen oder Teile deines SCOBYs an Freunde und Familie verschenken!
+
+Um ein Stück eines SCOBYs zu entfernen, der _fett_ geworden ist, brauchst du nur vorsichtig eine
+Schicht davon abzuziehen.
+
+Wenn du ihn verschenkst, vergiss nicht, auch etwa eine Tasse bereits fermentierten Kombucha
+mitzugeben, damit der SCOBY sicher bleibt und die Person leicht mit dem Brauen beginnen kann.
+
+:::
+
+<details><summary>🇨🇭 Online-Chatgruppe zum Austausch von SCOBYs in der Schweiz</summary>
+
+Treten Sie [dieser Telegram-Gruppe](https://t.me/scobysch) bei, um kostenlose SCOBYs zu finden und
+zu teilen!
 
 ![t.me/scobysch QR code](./../../../../static/img/t.me-scobysch.jpeg)
 
 </details>
 
-## Bottles for storing kombucha
+## Flaschen zur Lagerung von Kombucha
 
-(Or for doing the [2nd Fermentation](/2nd-fermentation))
+(Oder für die [zweite Gärung](/2nd-fermentation))
 
-Use **only glas** bottles!
+**Nur Glasflaschen** verwenden!
 
-Size doesn't really matter, best are bottles from 0.5L to 1.5L.
+Die Größe spielt keine Rolle, am besten sind Flaschen von 0,5 L bis 1,5 L.
 
-**IMPORTANT:** Use bottles that are able to hold a good amount pressure! (Especially if you plan to
-do the 2nd Fermentation)
+**WICHTIG:** Benutze Flaschen, die einen guten Druck aushalten können! (Vor allem, wenn du vorhast,
+die zweite Gärung durchzuführen)
 
-Our choice:
-[Bormioli Rocco - Officina 1825 - 1L Bottle with hermetic lid](https://www.bormiolirocco.com/en/product/566/bottle-with-hermetic-lid-37-1-4-oz-officina-1825)
+Unsere Wahl:
+[Bormioli Rocco - Officina 1825 - 1L Flasche mit hermetischem Deckel](https://www.bormiolirocco.com/en/product/566/bottle-with-hermetic-lid-37-1-4-oz-officina-1825)
 
-<details><summary>🇨🇭 Advice for people living in Switzerland</summary>
+<details><summary>🇨🇭 Ratschläge für Leute, die in der Schweiz wohnen</summary>
 
-The **Bormioli Rocco - Officina 1825** can easily be found in (big) MIGROS stores.
+Die **Bormioli Rocco - Officina 1825** Flasche kann man leicht in (großen) MIGROS-Filialen finden.
 [Link](https://produkte.migros.ch/bormioli-rocco-flasche-officina).
 
 </details>
 
-## Something to cover the container
+## Etwas zum Abdecken des Behälters
 
-While doing the first fermentation, the [container](/equipment#container) needs to be protected
-from dust, mold and foreign bacteria...
+Während der ersten Gärung muss der [Behälter](/equipment#behälter) vor Staub, Schimmel und fremden
+Bakterien geschützt werden...
 
-Also the fermentation process need to _breath_ so it is not good to completely close the container
-in wich the first fermentation is happening.
+Ebenfalls muss der Gärprozess _atmen_, daher ist es nicht gut, den Behälter, in dem die erste Gärung
+stattfindet, komplett zu verschließen.
 
-Options for covering the container:
+Optionen für die Abdeckung des Behälters:
 
--   A cloth
--   A paper filter (big coffee filters work well) <br/>**=> this is most likely the best option** ✅
+-   Ein Tuch
+-   Ein Papierfilter (große Kaffeefilter funktionieren gut) <br/>**=> das ist wahrscheinlich die
+    beste Option** ✅
 
-To avoid:
+Zu vermeiden:
 
--   Things that are not letting enough air flow through
--   Textiles that might drop their own dust into the kombucha
+-   Dinge, die nicht genug Luft durchlassen
+-   Textilien, die ihren eigenen Staub in den Kombucha fallen lassen könnten
 
-Make sure that what you use stays clean and dry.
+Sorge dafür, dass das, was du verwendest, sauber und trocken bleibt.

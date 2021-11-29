@@ -15,9 +15,9 @@ title: 📖 Wie man Kombucha macht
 
 ### 🥣 Vorbereitung
 
-_(Für einen 3L-[Behälter](/equipment#container))_
+_(Für einen 3L-[Behälter](/equipment#behälter))_
 
-1. [Behälter](/equipment#container) mit
+1. [Behälter](/equipment#behälter) mit
     - ein **[SCOBY](/equipment#scoby)**
     - 1 Tasse fermentierter **Kombucha** (⚠️ ohne Zusatz von Geschmacksstoffen!)
 2. **1L** Schwarztee (Zimmertemperatur)
@@ -33,7 +33,7 @@ _(Für einen 3L-[Behälter](/equipment#container))_
 
 ### 🍺 Geniessen
 
-1. Kombucha zur Aufbewahrung in [Flaschen](/equipment#bottles-for-storing-kombucha) abfüllen
+1. Kombucha zur Aufbewahrung in [Flaschen](/equipment#flaschen-zur-lagerung-von-kombucha) abfüllen
 2. Den SCOBY und 1 Tasse Kombucha beiseite stellen
 3. Den Behälter reinigen
 4. Einen [neuen Zyklus](/#-vorbereitung) starten.
@@ -51,10 +51,10 @@ Ausrüstung.
 
 Für eine sehr minimale Einrichtung benötigst du:
 
--   Ein grosser [Glasbehälter](/equipment#container)
+-   Ein grosser [Glasbehälter](/equipment#behälter)
 -   Ein [SCOBY](/equipment#scoby)
 -   1 Tasse (~ 250 ml) Kombucha
--   [Flaschen](/equipment#bottles-for-storing-kombucha) zur Aufbewahrung von Kombucha
+-   [Flaschen](/equipment#flaschen-zur-lagerung-von-kombucha) zur Aufbewahrung von Kombucha
 -   [Etwas zum Abdecken des Behälters](/equipment#something-to-cover-the-container) (Tuch,
     Kaffeefilter...)
 -   Ein Gummiband
@@ -106,12 +106,12 @@ Optional kannst du diese Werkzeuge für ein bequemeres Arbeiten verwenden:
 
 :::info
 
-Diese Anweisungen beziehen sich auf einen 3-Liter-[Behälter](/Ausrüstung#Behälter); wenn Sie einen
+Diese Anweisungen beziehen sich auf einen 3-Liter-[Behälter](/equipment#behälter); wenn Sie einen
 Behälter mit einer anderen Größe verwenden, passen Sie die Mengen entsprechend an.
 
 :::
 
-1.  Bereiten Sie einen leeren (und sauberen) [Behälter](/equipment#container) mit
+1.  Bereiten Sie einen leeren (und sauberen) [Behälter](/equipment#behälter) mit
 
     -   ein **[SCOBY](/equipment#scoby)**
     -   1 Tasse (~ 250mL) fermentierter **Kombucha** (⚠️ ohne Geschmack!)
@@ -179,7 +179,7 @@ Der Gärungsprozess ist der einfachste, er erfordert nur ein wenig Geduld.
 
     - Zum Abdecken des Gefäßes ein Tuch, einen Kaffeefilter oder etwas anderes verwenden, das
       verhindert, dass Staub oder Bakterien in das Gefäß gelangen können, während es gärt. Siehe
-      [diese Seite](/equipment#etwas-zum-Abdecken-des-Behälters) für detaillierte Ratschläge.
+      [diese Seite](/equipment#etwas-zum-abdecken-des-behälters) für detaillierte Ratschläge.
 
 2. Den Kombucha 7 Tage lang gären lassen.
 
@@ -213,8 +213,8 @@ Jetzt, wo dein Kombucha gegärt hat, kannst du einen neuen Zyklus beginnen.
       verschiedenen Flaschen verteilt werden, die für die Lagerung oder die zweite Gärung verwendet
       werden.
 
-3. Den gegorenen Kombucha in [Flaschen](/equipment#bottles-for-storing-kombucha) abfüllen, um ihn zu
-   lagern
+3. Den gegorenen Kombucha in [Flaschen](/equipment#flaschen-zur-lagerung-von-kombucha) abfüllen, um
+   ihn zu lagern
 
     - Um die Gärung zu stoppen (oder besser gesagt _zu verlangsamen_), die Flaschen in den
       Kühlschrank oder an einen kalten Ort stellen.
