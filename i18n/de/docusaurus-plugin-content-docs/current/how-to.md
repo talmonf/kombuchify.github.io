@@ -76,153 +76,160 @@ Optional kannst du diese Werkzeuge für ein bequemeres Arbeiten verwenden:
 
 :::
 
-#### 💡 Some general advices
+#### 💡 Allgemeine Ratschläge
 
--   Always work in a very clean environment
+-   Immer in einer sehr sauberen Umgebung arbeiten
 
-    -   Avoid dust
-    -   Avoid sources of mold
+    -   Staub vermeiden
+    -   Quellen von Schimmel vermeiden
 
--   Only use organic ingredients
+-   Nur Bio-Zutaten verwenden
 
-    -   As kombucha is kind of a living organism, it is best to feed it exclusively with organic
-        products. If you're not convinced, try both and see the difference in taste and feeling.
+    -   Da Kombucha eine Art lebender Organismus ist, ist es am besten, ihn ausschließlich mit
+        biologischen Produkten zu ernähren. Wenn du nicht überzeugt bist, probiere beides und prüfe
+        den Unterschied in Geschmack und Gefühl.
 
--   Use clean drinking water
+-   Sauberes Trinkwasser verwenden
 
-    -   If the water from you sink isn't clean (if it contains chlorine or other nasty things) it
-        might disturb the SCOBY. Try to find a filter or another source of clean drinking water.
+    -   Wenn das Wasser aus dem Wasserhahn nicht sauber ist (wenn es Chlor oder andere schädliche
+        Stoffe enthält) könnte es den SCOBY stören. Versuche es, einen Filter oder eine andere
+        Quelle für sauberes Trinkwasser zu finden.
 
--   Chose a good spot for your fermentation
+-   Einen guten Platz für die Gärung wählen
 
-    -   No direct sun-light
-    -   The air must circulate normally (avoid putting it inside of cupboard)
-    -   Not too cold (room temperature is perfect)
-    -   Not too warm
+    -   Kein direktes Sonnenlicht
+    -   Die Luft muss normal zirkulieren (vermeiden Sie es, das Gerät in einem Schrank zu stellen)
+    -   Nicht zu kalt (Zimmertemperatur ist ideal)
+    -   Nicht zu warm
 
-### 🥣 Start a new brewing cycle
+### 🥣 Einen neuen Gärungszyklus starten
 
 :::info
 
-These instructions are for a 3L [container](/equipment#container), if you are using a container
-of a different size, make the required adjustments to the quantities.
+Diese Anweisungen beziehen sich auf einen 3-Liter-[Behälter](/Ausrüstung#Behälter); wenn Sie einen
+Behälter mit einer anderen Größe verwenden, passen Sie die Mengen entsprechend an.
 
 :::
 
-1.  Prepare an empty (and clean) [container](/equipment#container) with
+1.  Bereiten Sie einen leeren (und sauberen) [Behälter](/equipment#container) mit
 
-    -   a **[SCOBY](/equipment#scoby)**
-    -   1 cup (~ 250mL) of fermented **kombucha** (⚠️ unflavored!)
-        -   The kombucha that is required here is for the SCOBY: it needs to have a minimal sense of
-            "home feeling" so that the fermentation can start.
-        -   1 cup is the minimum, if there is a bit more than that it's totally fine
+    -   ein **[SCOBY](/equipment#scoby)**
+    -   1 Tasse (~ 250mL) fermentierter **Kombucha** (⚠️ ohne Geschmack!)
+        -   Der Kombucha, der hier benötigt wird, ist für den SCOBY: Er muss ein minimales Gefühl
+            von "Heimatgefühl" haben, damit die Fermentation beginnen kann.
+        -   1 Tasse ist das Minimum, wenn es etwas mehr als das ist, ist es völlig in Ordnung
 
-2.  Make **1L** of black tea
+2.  **1L** Schwarztee machen
 
-    -   Use something like 3 to 4 bags of tea per Liter. Basically one bag per cup.
-    -   Other teas (like green tea) are also possible to use, but it is advised to start with black
-        tea as it is the easiest. <br/>⚠️**Kombucha needs theine**.
+    -   Etwa 3 bis 4 Teebeutel pro Liter verwenden. Im Grunde genommen ein Beutel pro Tasse.
+    -   Auch andere Teesorten (z. B. Grüntee) können verwendet werden, aber es wird empfohlen, mit
+        Schwarztee zu beginnen, da es am einfachsten ist. <br/>⚠️**Kombucha braucht Theine**.
 
-3.  Let the tea steep for a good while (at least 20 minutes)
+3.  Lassen Sie den Tee eine ganze Weile ziehen (mindestens 20 Minuten).
 
-    -   Cold brewed teas work a well. Then obviously you will need to let it steep for a longer
-        period.
+    -   Kalt aufgebrühte Tees funktionieren sehr gut. Dann müssen Sie ihn natürlich länger ziehen
+        lassen.
 
-4.  Wait that the tea is at room temperature, or do something to cool it down quickly (ice bath).
+4.  Den Tee auf Zimmertemperatur abkühlen lassen oder ihn sofort herunterkühlen (Eisbad).
 
-5.  Strain the tea
+5.  Den Tee abseihen
 
-6.  Add **80g** of sugar (per Liter)
+6.  **80g** Zucker hinzufügen (pro Liter)
 
-    -   Any sugar will do
-    -   Best is to use organic cane sugar
-
-    <br/>
-
-    :::caution waring
-
-    Do not use anything else than sugar to add the sweetness. The SCOBY feeds on the sugar and it
-    cannot feed on anything else.
-
-    :::
-
-    :::tip No more sugar left at the end!
-
-    After the fermentation there will be **no more sugar** left in the kombucha. So you are safe to
-    drink it even if you want to avoid sugar in your diet.
-
-    :::
+    -   Jeder Zucker ist geeignet
+    -   Am besten ist es, Bio-Rohrzucker zu verwenden.
 
     <br/>
 
-7.  Mix the sugar and the tea
+    :::caution Warnung
 
-    -   Use a whisk to mix the sugar into the tea and to dilute it.
-    -   If you have multiples batches to prepare, it is better to mix the sugar and the tea in a
-        different container to make sure that you have exactly 1L of tea and 80g of sugar.
-    -   It is also possible to mix the sugar and the tea while the tea is still hot.
+    Zum Süßen darf nichts anderes als Zucker verwendet werden. Der SCOBY ernährt sich vom Zucker und
+    kann sich von nichts anderem ernähren.
 
-8.  Pour the mixed sugar and tea into the fermentation container
+    :::
 
-9.  Fill the rest of the container with **water**
-    -   Most containers have a curved border at the top. Leave the curved part empty so that the
-        SCOBY (usually floating on at the top of the liquid) can fill out the full width of the
-        container while it is fermenting
+    :::tip Am Ende ist kein Zucker mehr übrig!
 
-### 🧘🏻 Fermentation
+    Nach der Gärung ist **kein Zucker** mehr im Kombucha übrig. Du kannst ihn also unbedenklich
+    trinken, auch wenn du Zucker in deiner Ernährung vermeiden willst.
 
-The fermentation process is the most simple one, it just requires a little bit of patience.
+    :::
 
-1. Cover the container where you have prepared your brewing mixture.
+    <br/>
 
-    - To cover the container use a cloth, coffee filter or anything that prevents dust or bacteria
-      to get into the container while it is fermenting, see
-      [this page](/equipment#something-to-cover-the-container) for detailed advice.
+7.  Den Zucker und den Tee mischen
 
-2. Let the kombucha ferment for 7 days.
+    -   Um den Zucker in den Tee aufzulösen, verwende einen Schwingbesen.
+    -   Wenn du mehrere Ladungen zubereiten musst, ist es besser, den Zucker und den Tee in einem
+        anderen Gefäß zu mischen, um sicherzustellen, dass du genau 1 L Tee und 80 g Zucker hast.
+    -   Es ist auch möglich, den Zucker und den Tee zu mischen, während der Tee noch heiß ist.
 
-    - Chose a good spot for the fermentation process (see [advices above](/#-some-general-advices)).
-    - The fermentation process usually takes around 7 days. Depending on the room temperature and
-      other influencing factors it might take longer or be faster. So generally speaking it can take
-      from 6 to 10 days.
-    - You can taste your kombucha from time to time to check if the fermentation is over or not.
-    - The fermentation tends to be faster in warmer environments.
+8.  Den gemischten Zucker und Tee in den Gärbehälter gießen
 
-3. Generally speaking the fermentation process should not be disturbed, so unless it is really
-   necessary, just leave it alone for the 7 days to come.
+9.  Den Rest des Behälters mit **Wasser** auffüllen
+    -   Die meisten Behälter haben oben einen gebogenen Rand. Diesen gebogenen Teil lässt man leer,
+        damit der SCOBY (der normalerweise oben auf der Flüssigkeit schwimmt) während der Gärung die
+        gesamte Breite des Behälters ausfüllen kann.
 
-4. Sometimes the fermentation produces a lot of gas. When that happens, the SCOBY might get lifted
-   into the air by a big bubble of gas. It is god to pop out that bubble to let the SCOBY touch the
-   liquid. So if necessary release that bubble once or twice a day. Use a clean spoon to push down
-   the SCOBY into the liquid.
+### 🧘🏻 Gärung
 
-### 🍺 Enjoy your fresh kombucha
+Der Gärungsprozess ist der einfachste, er erfordert nur ein wenig Geduld.
 
-Now that your kombucha has fermented, you can start a new cycle.
+1. Das Gefäß, in dem du deine Mischung zubereitet hast, abdecken.
 
-1. Take out the SCOBY from the container
-2. Stir the liquid inside the container with a whisk
+    - Zum Abdecken des Gefäßes ein Tuch, einen Kaffeefilter oder etwas anderes verwenden, das
+      verhindert, dass Staub oder Bakterien in das Gefäß gelangen können, während es gärt. Siehe
+      [diese Seite](/equipment#etwas-zum-Abdecken-des-Behälters) für detaillierte Ratschläge.
 
-    - This is optional but still good to do: during the fermentation, some yeast will accumulate at
-      the bottom of the container. This yeast is responsible for carbonation in the
-      [2nd Fermentation](/2nd-fermentation) and therefore you want it to be evenly distributed in
-      the different bottles used for storage or 2nd fermentation.
+2. Den Kombucha 7 Tage lang gären lassen.
 
-3. Pour out the fermented kombucha into [bottles](/equipment#bottles-for-storing-kombucha) to
-   store it
+    - Einen guten Platz für die Gärung wählen (siehe [Ratschläge oben](/#-allgemeine-ratschläge)).
+    - Der Gärungsprozess dauert in der Regel etwa 7 Tage. Je nach Raumtemperatur und sonstigen
+      Einflussfaktoren kann es länger dauern oder auch schneller gehen. Im Allgemeinen kann es also
+      zwischen 6 und 10 Tagen dauern.
+    - Du kannst deinen Kombucha von Zeit zu Zeit kosten, um zu prüfen, ob die Gärung abgeschlossen
+      ist oder nicht.
+    - In wärmeren Umgebungen verläuft die Gärung tendenziell schneller.
 
-    - To stop (or better said _slow down_) the fermentation, put the bottles into your fridge or a
-      cold spot.
+3. Im Allgemeinen sollte der Gärungsprozess nicht gestört werden, d.h. wenn es nicht wirklich
+   notwendig ist, lassen Sie ihn die nächsten 7 Tage in Ruhe.
 
-4. Put 1 cup of kombucha and the SCOBY aside (for the next cycle)
+4. Manchmal entsteht bei der Gärung eine Menge Gas. Wenn das passiert, kann der SCOBY durch eine
+   große Gasblase in die Luft gehoben werden. Es ist gut, diese Blase heraus zu lassen, damit der
+   SCOBY die Flüssigkeit berühren kann. Wenn nötig, kannst du diese Luftblase ein- oder zweimal am
+   Tag ablassen. Benutze einen sauberen Löffel, um den SCOBY nach unten in die Flüssigkeit zu
+   drücken.
 
-    - No need to wash the SCOBY if it looks dirty, you just might disturb its natural equilibrium.
+### 🍺 Frischen Kombucha genießen
 
-5. Clean the container
+Jetzt, wo dein Kombucha gegärt hat, kannst du einen neuen Zyklus beginnen.
 
-    - Usually no soap is required
-    - If you need soap, make sure that the container is very well rinsed before reusing it.
+1. Nimm den SCOBY aus dem Behälter
+2. Die Flüssigkeit im Inneren des Behälters mit einem Schwingbesen umrühren
 
-6. Start a new cycle.
+    - Dies ist optional, aber dennoch sinnvoll: Während der Gärung sammelt sich ein Teil der Hefe am
+      Boden des Behälters an. Diese Hefe ist für die Kohlensäurebildung bei der
+      [zweiten Gärung](/2nd-fermentation) verantwortlich und sollte daher gleichmäßig in den
+      verschiedenen Flaschen verteilt werden, die für die Lagerung oder die zweite Gärung verwendet
+      werden.
 
-### Bonus: 🍾 [2nd fermentation](/2nd-fermentation)
+3. Den gegorenen Kombucha in [Flaschen](/equipment#bottles-for-storing-kombucha) abfüllen, um ihn zu
+   lagern
+
+    - Um die Gärung zu stoppen (oder besser gesagt _zu verlangsamen_), die Flaschen in den
+      Kühlschrank oder an einen kalten Ort stellen.
+
+4. 1 Tasse Kombucha und den SCOBY beiseite stellen (für den nächsten Zyklus)
+
+    - Es ist nicht nötig, den SCOBY zu waschen, wenn er schmutzig aussieht, denn dadurch könntest du
+      nur sein natürliches Gleichgewicht stören.
+
+5. Den Behälter reinigen
+
+    - Normalerweise ist keine Seife benötigt.
+    - Wenn du Seife brauchst, vergewissere dich, dass der Behälter sehr gut ausgespült ist, bevor du
+      ihn wieder verwendest.
+
+6. Einen neuen Zyklus beginnen.
+
+### Bonus: 🍾 [Die zweite Gärung](/2nd-fermentation)
