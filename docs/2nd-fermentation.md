@@ -77,6 +77,7 @@ during the second fermentation:
     -   Mango
     -   Pineapple
     -   ...
+-   Elderflower (my favorite!)
 -   Ginger
 -   Turmeric (Kurkuma)
 -   Cinnamon

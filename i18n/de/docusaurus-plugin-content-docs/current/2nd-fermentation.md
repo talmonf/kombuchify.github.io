@@ -79,6 +79,7 @@ der zweiten Gärung verwenden kannst:
     -   Mango
     -   Ananas
     -   ...
+-   Holunderblüten (mein Favorit!)
 -   Ingwer
 -   Gelbwurz (Kurkuma)
 -   Zimt
