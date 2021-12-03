@@ -4,6 +4,10 @@ slug: /
 title: 📖 How to make Kombucha
 ---
 
+<head>
+	<meta name="google-site-verification" content="xg_wjesEDIgKoDk6rLDaAqNEwrDqGmxpcWEldsUlbGU" />
+</head>
+
 ## 📌 Simple recipe
 
 :::tip
