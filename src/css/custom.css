@@ -31,3 +31,9 @@ details, details * {
 	border: none !important;
 	background: none !important;
 }
+
+@media (max-width: 996px) {
+	.navbar__item {
+		display: block;
+	}
+}
