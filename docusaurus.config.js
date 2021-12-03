@@ -63,7 +63,7 @@ const config = {
 
 	i18n: {
 		defaultLocale: 'en',
-		locales: ['en', 'de'],
+		locales: ['en', 'de', 'fr'],
 		localeConfigs: {
 			en: {
 				label: 'English',
@@ -73,8 +73,46 @@ const config = {
 				label: 'Deutsch',
 				direction: 'ltr',
 			},
+			fr: {
+				label: 'Français',
+				direction: 'ltr',
+			},
 		},
 	},
+
+	plugins: [
+		[
+			'@docusaurus/plugin-sitemap',
+			{
+				changefreq: 'weekly',
+				priority: 0.5,
+				trailingSlash: false,
+			},
+		],
+		[
+			'@docusaurus/plugin-pwa',
+			{
+				offlineModeActivationStrategies: ['appInstalled', 'standalone', 'mobile'],
+				pwaHead: [
+					{
+						tagName: 'link',
+						rel: 'icon',
+						href: '/img/logo.png',
+					},
+					{
+						tagName: 'meta',
+						name: 'theme-color',
+						content: 'rgb(215, 117, 38)',
+					},
+					{
+						tagName: 'meta',
+						name: 'apple-mobile-web-app-capable',
+						content: 'yes',
+					},
+				],
+			},
+		],
+	],
 };
 
 module.exports = config;
