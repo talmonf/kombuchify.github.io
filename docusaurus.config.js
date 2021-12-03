@@ -26,6 +26,7 @@ const config = {
 					routeBasePath: '/',
 					sidebarPath: require.resolve('./sidebars.js'),
 					editUrl: 'https://github.com/kombuchify/kombuchify.github.io/tree/master/',
+					editLocalizedFiles: true,
 				},
 				blog: false,
 				theme: {
