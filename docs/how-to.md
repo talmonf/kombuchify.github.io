@@ -8,16 +8,16 @@ title: 📖 How to make Kombucha
 	<meta name="google-site-verification" content="xg_wjesEDIgKoDk6rLDaAqNEwrDqGmxpcWEldsUlbGU" />
 </head>
 
-## 📌 Simple recipe
+## 📌 Simple recipe {#simple-recipe}
 
 :::tip
 
 **If you are not yet familiar with the process of brewing kombucha, it's advised to first carefully
-read the 🔬 [Detailed instructions](/#-detailed-instructions).**
+read the 🔬 [Detailed instructions](/#detailed-instructions).**
 
 :::
 
-### 🥣 Preparation
+### 🥣 Preparation {#preparation}
 
 _(For a 3L [container](/equipment#container))_
 
@@ -30,37 +30,36 @@ _(For a 3L [container](/equipment#container))_
 5. Pour the mix into the container
 6. Fill the rest of the container with **water**
 
-### 🧘🏻 Fermentation
+### 🧘🏻 Fermentation {#fermentation}
 
 1. Cover the container
 2. Ferment for 7 days
 
-### 🍺 Enjoy
+### 🍺 Enjoy {#enjoy}
 
-1. Pour kombucha into [bottles](/equipment#bottles-for-storing-kombucha) for storage
+1. Pour kombucha into [bottles](/equipment#bottles) for storage
 2. Put the SCOBY and 1 cup of kombucha aside
 3. Clean the container
-4. Restart a [new cycle](/#-preparation).
+4. Restart a [new cycle](/#preparation).
 
-### Bonus: 🍾 [2nd fermentation](/2nd-fermentation)
+### Bonus: 🍾 [2nd fermentation](/2nd-fermentation) {#bonus--2nd-fermentation}
 
-## 🔬 Detailed instructions
+## 🔬 Detailed instructions {#detailed-instructions}
 
-### 🪧 Introduction and prerequisites
+### 🪧 Introduction and prerequisites {#introduction-and-prerequisites}
 
 Brewing kombucha is very simple, yet it requires some basic knowledge and some good equipment to
 work with.
 
-#### 🛠 [Equipment](/equipment)
+#### 🛠 [Equipment](/equipment) {#equipment}
 
 In a very minimal set up you will need:
 
 -   A big glas [container](/equipment#container)
 -   A [SCOBY](/equipment#scoby)
 -   1 cup (~ 250mL) of kombucha
--   [Bottles](/equipment#bottles-for-storing-kombucha) for storing kombucha
--   [Something to cover the container](/equipment#something-to-cover-the-container) (cloth, coffee
-    filter...)
+-   [Bottles](/equipment#bottles) for storing kombucha
+-   [Something to cover the container](/equipment#cover) (cloth, coffee filter...)
 -   A rubber band
 -   Black tea
 -   Sugar
@@ -80,7 +79,7 @@ Visit [this page](/equipment) to find advices on how to chose your equipment.
 
 :::
 
-#### 💡 Some general advices
+#### 💡 Some general advices {#general-advices}
 
 -   Always work in a very clean environment
 
@@ -104,7 +103,7 @@ Visit [this page](/equipment) to find advices on how to chose your equipment.
     -   Not too cold (room temperature is perfect)
     -   Not too warm
 
-### 🥣 Start a new brewing cycle
+### 🥣 Start a new brewing cycle {#start}
 
 :::info
 
@@ -173,19 +172,19 @@ different size, make the required adjustments to the quantities.
         SCOBY (usually floating on at the top of the liquid) can fill out the full width of the
         container while it is fermenting
 
-### 🧘🏻 Fermentation
+### 🧘🏻 Fermentation {#fermentation-1}
 
 The fermentation process is the most simple one, it just requires a little bit of patience.
 
 1. Cover the container where you have prepared your brewing mixture.
 
     - To cover the container use a cloth, coffee filter or anything that prevents dust or bacteria
-      to get into the container while it is fermenting, see
-      [this page](/equipment#something-to-cover-the-container) for detailed advice.
+      to get into the container while it is fermenting, see [this page](/equipment#cover) for
+      detailed advice.
 
 2. Let the kombucha ferment for 7 days.
 
-    - Chose a good spot for the fermentation process (see [advices above](/#-some-general-advices)).
+    - Chose a good spot for the fermentation process (see [advices above](/#general-advices)).
     - The fermentation process usually takes around 7 days. Depending on the room temperature and
       other influencing factors it might take longer or be faster. So generally speaking it can take
       from 6 to 10 days.
@@ -200,7 +199,7 @@ The fermentation process is the most simple one, it just requires a little bit o
    liquid. So if necessary release that bubble once or twice a day. Use a clean spoon to push down
    the SCOBY into the liquid.
 
-### 🍺 Enjoy your fresh kombucha
+### 🍺 Enjoy your fresh kombucha {#enjoy}
 
 Now that your kombucha has fermented, you can start a new cycle.
 
@@ -212,8 +211,7 @@ Now that your kombucha has fermented, you can start a new cycle.
       [2nd Fermentation](/2nd-fermentation) and therefore you want it to be evenly distributed in
       the different bottles used for storage or 2nd fermentation.
 
-3. Pour out the fermented kombucha into [bottles](/equipment#bottles-for-storing-kombucha) to store
-   it
+3. Pour out the fermented kombucha into [bottles](/equipment#bottles) to store it
 
     - To stop (or better said _slow down_) the fermentation, put the bottles into your fridge or a
       cold spot.
@@ -229,4 +227,4 @@ Now that your kombucha has fermented, you can start a new cycle.
 
 6. Start a new cycle.
 
-### Bonus: 🍾 [2nd fermentation](/2nd-fermentation)
+### Bonus: 🍾 [2nd fermentation](/2nd-fermentation) {#bonus--2nd-fermentation-1}

@@ -4,20 +4,20 @@ slug: /
 title: 📖 Wie man Kombucha macht
 ---
 
-## 📌 Einfaches Rezept
+## 📌 Einfaches Rezept {#simple-recipe}
 
 :::tip
 
 **Wenn du noch nicht mit dem Kombucha machen vertraut bist, ist es ratsam, zuerst sorgfältig die 🔬
-[Detaillierte Anleitung](/#-detailed-instructions) zu lesen.**
+[Detaillierte Anleitung](/#detailed-instructions) zu lesen.**
 
 :::
 
-### 🥣 Vorbereitung
+### 🥣 Vorbereitung {#preparation}
 
-_(Für einen 3L-[Behälter](/equipment#behälter))_
+_(Für einen 3L-[Behälter](/equipment#container))_
 
-1. [Behälter](/equipment#behälter) mit
+1. [Behälter](/equipment#container) mit
     - ein **[SCOBY](/equipment#scoby)**
     - 1 Tasse fermentierter **Kombucha** (⚠️ ohne Zusatz von Geschmacksstoffen!)
 2. **1L** Schwarztee (Zimmertemperatur)
@@ -26,23 +26,23 @@ _(Für einen 3L-[Behälter](/equipment#behälter))_
 5. Die Mischung in den Behälter giessen
 6. Den Rest des Behälters mit **Wasser** auffüllen
 
-### 🧘🏻 Gärung
+### 🧘🏻 Gärung {#fermentation}
 
 1. Den Behälter zudecken
 2. 7 Tage lang gären
 
-### 🍺 Geniessen
+### 🍺 Geniessen {#enjoy}
 
-1. Kombucha zur Aufbewahrung in [Flaschen](/equipment#flaschen-zur-lagerung-von-kombucha) abfüllen
+1. Kombucha zur Aufbewahrung in [Flaschen](/equipment#bottles) abfüllen
 2. Den SCOBY und 1 Tasse Kombucha beiseite stellen
 3. Den Behälter reinigen
-4. Einen [neuen Zyklus](/#-vorbereitung) starten.
+4. Einen [neuen Zyklus](/#preparation) starten.
 
-### Bonus: 🍾 [Die zweite Gärung](/2nd-fermentation)
+### Bonus: 🍾 [Die zweite Gärung](/2nd-fermentation) {#bonus--2nd-fermentation}
 
-## 🔬 Detaillierte Anleitung
+## 🔬 Detaillierte Anleitung {#detailed-instructions}
 
-### 🪧 Einführung und Voraussetzungen
+### 🪧 Einführung und Voraussetzungen {#introduction-and-prerequisites}
 
 Das Brauen von Kombucha ist sehr einfach, erfordert aber einige Grundkenntnisse und eine gute
 Ausrüstung.
@@ -51,12 +51,11 @@ Ausrüstung.
 
 Für eine sehr minimale Einrichtung benötigst du:
 
--   Ein grosser [Glasbehälter](/equipment#behälter)
+-   Ein grosser [Glasbehälter](/equipment#container)
 -   Ein [SCOBY](/equipment#scoby)
 -   1 Tasse (~ 250 ml) Kombucha
--   [Flaschen](/equipment#flaschen-zur-lagerung-von-kombucha) zur Aufbewahrung von Kombucha
--   [Etwas zum Abdecken des Behälters](/equipment#something-to-cover-the-container) (Tuch,
-    Kaffeefilter...)
+-   [Flaschen](/equipment#bottles) zur Aufbewahrung von Kombucha
+-   [Etwas zum Abdecken des Behälters](/equipment#cover) (Tuch, Kaffeefilter...)
 -   Ein Gummiband
 -   Schwarztee
 -   Zucker
@@ -76,7 +75,7 @@ Optional kannst du diese Werkzeuge für ein bequemeres Arbeiten verwenden:
 
 :::
 
-#### 💡 Allgemeine Ratschläge
+#### 💡 Allgemeine Ratschläge {#general-advices}
 
 -   Immer in einer sehr sauberen Umgebung arbeiten
 
@@ -102,16 +101,16 @@ Optional kannst du diese Werkzeuge für ein bequemeres Arbeiten verwenden:
     -   Nicht zu kalt (Zimmertemperatur ist ideal)
     -   Nicht zu warm
 
-### 🥣 Einen neuen Gärungszyklus starten
+### 🥣 Einen neuen Gärungszyklus starten {#start}
 
 :::info
 
-Diese Anweisungen beziehen sich auf einen 3-Liter-[Behälter](/equipment#behälter); wenn Sie einen
+Diese Anweisungen beziehen sich auf einen 3-Liter-[Behälter](/equipment#container); wenn Sie einen
 Behälter mit einer anderen Grösse verwenden, passen Sie die Mengen entsprechend an.
 
 :::
 
-1.  Bereiten Sie einen leeren (und sauberen) [Behälter](/equipment#behälter) mit
+1.  Bereiten Sie einen leeren (und sauberen) [Behälter](/equipment#container) mit
 
     -   ein **[SCOBY](/equipment#scoby)**
     -   1 Tasse (~ 250mL) fermentierter **Kombucha** (⚠️ ohne Geschmack!)
@@ -143,8 +142,8 @@ Behälter mit einer anderen Grösse verwenden, passen Sie die Mengen entsprechen
 
     :::caution Warnung
 
-    Zum Süssen darf nichts anderes als Zucker verwendet werden. Der SCOBY ernährt sich vom Zucker und
-    kann sich von nichts anderem ernähren.
+    Zum Süssen darf nichts anderes als Zucker verwendet werden. Der SCOBY ernährt sich vom Zucker
+    und kann sich von nichts anderem ernähren.
 
     :::
 
@@ -171,7 +170,7 @@ Behälter mit einer anderen Grösse verwenden, passen Sie die Mengen entsprechen
         damit der SCOBY (der normalerweise oben auf der Flüssigkeit schwimmt) während der Gärung die
         gesamte Breite des Behälters ausfüllen kann.
 
-### 🧘🏻 Gärung
+### 🧘🏻 Gärung {#fermentation-1}
 
 Der Gärungsprozess ist der einfachste, er erfordert nur ein wenig Geduld.
 
@@ -179,11 +178,11 @@ Der Gärungsprozess ist der einfachste, er erfordert nur ein wenig Geduld.
 
     - Zum Abdecken des Gefässes ein Tuch, einen Kaffeefilter oder etwas anderes verwenden, das
       verhindert, dass Staub oder Bakterien in das Gefäss gelangen können, während es gärt. Siehe
-      [diese Seite](/equipment#etwas-zum-abdecken-des-behälters) für detaillierte Ratschläge.
+      [diese Seite](/equipment#cover) für detaillierte Ratschläge.
 
 2. Den Kombucha 7 Tage lang gären lassen.
 
-    - Einen guten Platz für die Gärung wählen (siehe [Ratschläge oben](/#-allgemeine-ratschläge)).
+    - Einen guten Platz für die Gärung wählen (siehe [Ratschläge oben](/#general-advices)).
     - Der Gärungsprozess dauert in der Regel etwa 7 Tage. Je nach Raumtemperatur und sonstigen
       Einflussfaktoren kann es länger dauern oder auch schneller gehen. Im Allgemeinen kann es also
       zwischen 6 und 10 Tagen dauern.
@@ -200,7 +199,7 @@ Der Gärungsprozess ist der einfachste, er erfordert nur ein wenig Geduld.
    Tag ablassen. Benutze einen sauberen Löffel, um den SCOBY nach unten in die Flüssigkeit zu
    drücken.
 
-### 🍺 Frischen Kombucha geniessen
+### 🍺 Frischen Kombucha geniessen {#enjoy}
 
 Jetzt, wo dein Kombucha gegärt hat, kannst du einen neuen Zyklus beginnen.
 
@@ -213,8 +212,7 @@ Jetzt, wo dein Kombucha gegärt hat, kannst du einen neuen Zyklus beginnen.
       verschiedenen Flaschen verteilt werden, die für die Lagerung oder die zweite Gärung verwendet
       werden.
 
-3. Den gegorenen Kombucha in [Flaschen](/equipment#flaschen-zur-lagerung-von-kombucha) abfüllen, um
-   ihn zu lagern
+3. Den gegorenen Kombucha in [Flaschen](/equipment#bottles) abfüllen, um ihn zu lagern
 
     - Um die Gärung zu stoppen (oder besser gesagt _zu verlangsamen_), die Flaschen in den
       Kühlschrank oder an einen kalten Ort stellen.
@@ -232,4 +230,4 @@ Jetzt, wo dein Kombucha gegärt hat, kannst du einen neuen Zyklus beginnen.
 
 6. Einen neuen Zyklus beginnen.
 
-### Bonus: 🍾 [Die zweite Gärung](/2nd-fermentation)
+### Bonus: 🍾 [Die zweite Gärung](/2nd-fermentation) {#bonus--2nd-fermentation-1}

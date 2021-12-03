@@ -4,7 +4,7 @@ slug: /equipment
 title: 🛠 Ausrüstung
 ---
 
-## Behälter
+## Behälter {#container}
 
 Der Hauptbehälter wird für die erste Gärung verwendet.
 
@@ -19,12 +19,12 @@ Unsere Wahl:
 
 <details><summary>🇨🇭 Ratschläge für Leute, die in der Schweiz wohnen</summary>
 
-Das **Bormioli Rocco - 3L Fido Einmachglas** kann leicht in (grossen) MIGROS-Filialen gekauft werden.
-[Link](https://produkte.migros.ch/bormioli-rocco-einmachglas-fido-703723200000).
+Das **Bormioli Rocco - 3L Fido Einmachglas** kann leicht in (grossen) MIGROS-Filialen gekauft
+werden. [Link](https://produkte.migros.ch/bormioli-rocco-einmachglas-fido-703723200000).
 
 </details>
 
-## SCOBY
+## SCOBY {#scoby}
 
 :::note Was ist ein SCOBY?...
 
@@ -60,7 +60,7 @@ zu teilen!
 
 </details>
 
-## Flaschen zur Lagerung von Kombucha
+## Flaschen zur Lagerung von Kombucha {#bottles}
 
 (Oder für die [zweite Gärung](/2nd-fermentation))
 
@@ -81,9 +81,9 @@ Die **Bormioli Rocco - Officina 1825** Flasche kann man leicht in (grossen) MIGR
 
 </details>
 
-## Etwas zum Abdecken des Behälters
+## Etwas zum Abdecken des Behälters {#cover}
 
-Während der ersten Gärung muss der [Behälter](/equipment#behälter) vor Staub, Schimmel und fremden
+Während der ersten Gärung muss der [Behälter](/equipment#container) vor Staub, Schimmel und fremden
 Bakterien geschützt werden...
 
 Ebenfalls muss der Gärprozess _atmen_, daher ist es nicht gut, den Behälter, in dem die erste Gärung

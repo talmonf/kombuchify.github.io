@@ -4,11 +4,11 @@ slug: /2nd-fermentation
 title: 🍾 Zweite Gärung
 ---
 
-## 🗝 Das Prinzip
+## 🗝 Das Prinzip {#principle}
 
 :::tip
 
-_Für Geschmacksideen, **[springen Sie sofort zu diesem Abschnitt](/2nd-fermentation#-ideen)**._
+_Für Geschmacksideen, **[springen Sie sofort zu diesem Abschnitt](/2nd-fermentation#ideas)**._
 
 :::
 
@@ -23,25 +23,25 @@ Die zweite Gärung bringt nicht nur mehr Geschmack, sondern macht das Getränk a
 Ende könntest du das schönste, gesündeste und ausgefallenste sodaähnliche Getränk erfinden, das es
 je gab!
 
-## 📖 Instructions
+## 📖 Instructions {#instructions}
 
-1. [Kombucha machen](/#-einfaches-rezept) und in eine
-   [Flasche](/equipment#flaschen-zur-lagerung-von-kombucha) füllen, die Druck aushält.
-2. Bereite deine geschmacksgebende(n) Zutat(en) vor. [Hier unten](/2nd-fermentation#-ideen) findest
+1. [Kombucha machen](/#simple-recipe) und in eine [Flasche](/equipment#bottles) füllen, die Druck
+   aushält.
+2. Bereite deine geschmacksgebende(n) Zutat(en) vor. [Hier unten](/2nd-fermentation#ideas) findest
    du einige Ideen.
 
-    - Bei Früchten diese so schneiden, dass sie in die Öffnung der
-      [Flasche](/equipment#flaschen-zur-lagerung-von-kombucha) passen.
+    - Bei Früchten diese so schneiden, dass sie in die Öffnung der [Flasche](/equipment#bottles)
+      passen.
 
 3. Die Zutaten in die Flasche geben. Ein Trichter kann hier sehr nützlich sein.
 
 4. Die Flasche 2 bis 3 Tage lang gären lassen.
 
-    - **Bitte die [Vorsichtsmassnahmen](/2nd-fermentation#%EF%B8%8F-vorsichtsmassnahmen) lesen ‼️**
+    - **Bitte die [Vorsichtsmassnahmen](/2nd-fermentation#cautions) lesen ‼️**
 
 5. Geniessen 🍾🍺
 
-## ⚠️ Vorsichtsmassnahmen
+## ⚠️ Vorsichtsmassnahmen {#cautions}
 
 **Der Prozess der zweiten Gärung kann (viel‼️) Druck erzeugen.**
 
@@ -64,7 +64,7 @@ Um Unfälle zu vermeiden, solltest du daher bei der Gärung einige Dinge beachte
 
 **🍾 Du wurdest gewarnt!**
 
-## 💡 Ideen
+## 💡 Ideen {#ideas}
 
 Hier findest du eine Liste mit Ideen, welche Zutaten du zum Aromatisieren deines Kombuchas während
 der zweiten Gärung verwenden kannst:

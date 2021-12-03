@@ -4,11 +4,11 @@ slug: /2nd-fermentation
 title: 🍾 2nd Fermentation
 ---
 
-## 🗝 The principle
+## 🗝 The principle {#principle}
 
 :::tip
 
-_For flavour ideas, **[jump down to that section immediately](/2nd-fermentation#-ideas)**._
+_For flavour ideas, **[jump down to that section immediately](/2nd-fermentation#ideas)**._
 
 :::
 
@@ -22,25 +22,23 @@ flavor to your kombucha.
 In addition to flavor, the second fermentation will make the drink more sparkling! You might end up
 inventing the nicest, healthiest and fanciest soda-like beverage that ever existed!
 
-## 📖 Instructions
+## 📖 Instructions {#instructions}
 
-1. [Make some kombucha](/#-simple-recipe) and fill it into a
-   [bottle](/equipment#bottles-for-storing-kombucha) that holds pressure.
-2. Prepare your flavoring ingredient(s). Check out some ideas
-   [here below](/2nd-fermentation#-ideas).
+1. [Make some kombucha](/#simple-recipe) and fill it into a [bottle](/equipment#bottles) that holds
+   pressure.
+2. Prepare your flavoring ingredient(s). Check out some ideas [here below](/2nd-fermentation#ideas).
 
-    - For fruits, slice them so that they fit into the opening of the
-      [bottle](/equipment#bottles-for-storing-kombucha).
+    - For fruits, slice them so that they fit into the opening of the [bottle](/equipment#bottles).
 
 3. Put your ingredients into the bottle. Using a funnel might be very handy here.
 
 4. Leave the bottle to ferment for 2 to 3 days.
 
-    - **Please read the [Cautions](/2nd-fermentation#%EF%B8%8F-cautions) ‼️**
+    - **Please read the [Cautions](/2nd-fermentation#cautions) ‼️**
 
 5. Enjoy 🍾🍺
 
-## ⚠️ Cautions
+## ⚠️ Cautions {#cautions}
 
 **The process of second fermentation can generate (a lot‼️) of pressure.**
 
@@ -62,7 +60,7 @@ process:
 
 **🍾 You have been warned!**
 
-## 💡 Ideas
+## 💡 Ideas {#ideas}
 
 Here is a list of ideas of what kind of ingredients could be used for flavouring your kombucha
 during the second fermentation:

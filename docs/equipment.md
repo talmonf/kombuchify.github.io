@@ -4,7 +4,7 @@ slug: /equipment
 title: 🛠 Equipment
 ---
 
-## Container
+## Container {#container}
 
 The main container is used for the first fermentation.
 
@@ -24,7 +24,7 @@ The **Bormioli Rocco - 3L Fido Glass Jar** can easily be found in (big) MIGROS s
 
 </details>
 
-## SCOBY
+## SCOBY {#scoby}
 
 :::note What is a SCOBY?...
 
@@ -57,7 +57,7 @@ Join [this Telegram group](https://t.me/scobysch) chat to find and share free SC
 
 </details>
 
-## Bottles for storing kombucha
+## Bottles for storing kombucha {#bottles}
 
 (Or for doing the [2nd Fermentation](/2nd-fermentation))
 
@@ -78,7 +78,7 @@ The **Bormioli Rocco - Officina 1825** can easily be found in (big) MIGROS store
 
 </details>
 
-## Something to cover the container
+## Something to cover the container {#cover}
 
 While doing the first fermentation, the [container](/equipment#container) needs to be protected from
 dust, mold and foreign bacteria...
