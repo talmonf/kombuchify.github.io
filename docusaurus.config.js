@@ -82,13 +82,6 @@ const config = {
 
 	plugins: [
 		[
-			'@docusaurus/plugin-sitemap',
-			{
-				changefreq: 'weekly',
-				priority: 0.5,
-			},
-		],
-		[
 			'@docusaurus/plugin-pwa',
 			{
 				offlineModeActivationStrategies: ['appInstalled', 'standalone', 'mobile'],
