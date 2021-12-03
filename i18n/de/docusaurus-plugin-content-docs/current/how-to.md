@@ -85,7 +85,7 @@ Optional kannst du diese Werkzeuge für ein bequemeres Arbeiten verwenden:
 
 -   Nur Bio-Zutaten verwenden
 
-    -   Da Kombucha eine Art lebender Organismus ist, ist es am besten, ihn ausschließlich mit
+    -   Da Kombucha eine Art lebender Organismus ist, ist es am besten, ihn ausschliesslich mit
         biologischen Produkten zu ernähren. Wenn du nicht überzeugt bist, probiere beides und prüfe
         den Unterschied in Geschmack und Gefühl.
 
@@ -107,7 +107,7 @@ Optional kannst du diese Werkzeuge für ein bequemeres Arbeiten verwenden:
 :::info
 
 Diese Anweisungen beziehen sich auf einen 3-Liter-[Behälter](/equipment#behälter); wenn Sie einen
-Behälter mit einer anderen Größe verwenden, passen Sie die Mengen entsprechend an.
+Behälter mit einer anderen Grösse verwenden, passen Sie die Mengen entsprechend an.
 
 :::
 
@@ -143,7 +143,7 @@ Behälter mit einer anderen Größe verwenden, passen Sie die Mengen entsprechen
 
     :::caution Warnung
 
-    Zum Süßen darf nichts anderes als Zucker verwendet werden. Der SCOBY ernährt sich vom Zucker und
+    Zum Süssen darf nichts anderes als Zucker verwendet werden. Der SCOBY ernährt sich vom Zucker und
     kann sich von nichts anderem ernähren.
 
     :::
@@ -161,10 +161,10 @@ Behälter mit einer anderen Größe verwenden, passen Sie die Mengen entsprechen
 
     -   Um den Zucker in den Tee aufzulösen, verwende einen Schwingbesen.
     -   Wenn du mehrere Ladungen zubereiten musst, ist es besser, den Zucker und den Tee in einem
-        anderen Gefäß zu mischen, um sicherzustellen, dass du genau 1 L Tee und 80 g Zucker hast.
-    -   Es ist auch möglich, den Zucker und den Tee zu mischen, während der Tee noch heiß ist.
+        anderen Gefäss zu mischen, um sicherzustellen, dass du genau 1 L Tee und 80 g Zucker hast.
+    -   Es ist auch möglich, den Zucker und den Tee zu mischen, während der Tee noch heiss ist.
 
-8.  Den gemischten Zucker und Tee in den Gärbehälter gießen
+8.  Den gemischten Zucker und Tee in den Gärbehälter giessen
 
 9.  Den Rest des Behälters mit **Wasser** auffüllen
     -   Die meisten Behälter haben oben einen gebogenen Rand. Diesen gebogenen Teil lässt man leer,
@@ -175,10 +175,10 @@ Behälter mit einer anderen Größe verwenden, passen Sie die Mengen entsprechen
 
 Der Gärungsprozess ist der einfachste, er erfordert nur ein wenig Geduld.
 
-1. Das Gefäß, in dem du deine Mischung zubereitet hast, abdecken.
+1. Das Gefäss, in dem du deine Mischung zubereitet hast, abdecken.
 
-    - Zum Abdecken des Gefäßes ein Tuch, einen Kaffeefilter oder etwas anderes verwenden, das
-      verhindert, dass Staub oder Bakterien in das Gefäß gelangen können, während es gärt. Siehe
+    - Zum Abdecken des Gefässes ein Tuch, einen Kaffeefilter oder etwas anderes verwenden, das
+      verhindert, dass Staub oder Bakterien in das Gefäss gelangen können, während es gärt. Siehe
       [diese Seite](/equipment#etwas-zum-abdecken-des-behälters) für detaillierte Ratschläge.
 
 2. Den Kombucha 7 Tage lang gären lassen.
@@ -195,12 +195,12 @@ Der Gärungsprozess ist der einfachste, er erfordert nur ein wenig Geduld.
    notwendig ist, lassen Sie ihn die nächsten 7 Tage in Ruhe.
 
 4. Manchmal entsteht bei der Gärung eine Menge Gas. Wenn das passiert, kann der SCOBY durch eine
-   große Gasblase in die Luft gehoben werden. Es ist gut, diese Blase heraus zu lassen, damit der
+   grosse Gasblase in die Luft gehoben werden. Es ist gut, diese Blase heraus zu lassen, damit der
    SCOBY die Flüssigkeit berühren kann. Wenn nötig, kannst du diese Luftblase ein- oder zweimal am
    Tag ablassen. Benutze einen sauberen Löffel, um den SCOBY nach unten in die Flüssigkeit zu
    drücken.
 
-### 🍺 Frischen Kombucha genießen
+### 🍺 Frischen Kombucha geniessen
 
 Jetzt, wo dein Kombucha gegärt hat, kannst du einen neuen Zyklus beginnen.
 
@@ -209,7 +209,7 @@ Jetzt, wo dein Kombucha gegärt hat, kannst du einen neuen Zyklus beginnen.
 
     - Dies ist optional, aber dennoch sinnvoll: Während der Gärung sammelt sich ein Teil der Hefe am
       Boden des Behälters an. Diese Hefe ist für die Kohlensäurebildung bei der
-      [zweiten Gärung](/2nd-fermentation) verantwortlich und sollte daher gleichmäßig in den
+      [zweiten Gärung](/2nd-fermentation) verantwortlich und sollte daher gleichmässig in den
       verschiedenen Flaschen verteilt werden, die für die Lagerung oder die zweite Gärung verwendet
       werden.
 

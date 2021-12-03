@@ -37,11 +37,11 @@ je gab!
 
 4. Die Flasche 2 bis 3 Tage lang gären lassen.
 
-    - **Bitte die [Vorsichtsmaßnahmen](/2nd-fermentation#%EF%B8%8F-vorsichtsmaßnahmen) lesen ‼️**
+    - **Bitte die [Vorsichtsmassnahmen](/2nd-fermentation#%EF%B8%8F-vorsichtsmassnahmen) lesen ‼️**
 
-5. Genießen 🍾🍺
+5. Geniessen 🍾🍺
 
-## ⚠️ Vorsichtsmaßnahmen
+## ⚠️ Vorsichtsmassnahmen
 
 **Der Prozess der zweiten Gärung kann (viel‼️) Druck erzeugen.**
 
@@ -54,7 +54,7 @@ Um Unfälle zu vermeiden, solltest du daher bei der Gärung einige Dinge beachte
     etwas Geduld, um den ganzen Druck, der sich aufgebaut hat, abzulassen.
 
     -   Du musst selbst herausfinden, wie du Flaschen mit hohem Druck am besten öffnest, ohne dass
-        in deiner Küche eine Sauerei entsteht. Eine Möglichkeit ist, eine große Schüssel zu
+        in deiner Küche eine Sauerei entsteht. Eine Möglichkeit ist, eine grosse Schüssel zu
         benutzen, die Flasche nach unten zu halten und langsam alles herauszulassen und dann wieder
         in die Flasche zu füllen. Benutze deine Hand, um die Spritzer, die aus der Öffnung der
         Flasche kommen, aufzuhalten.

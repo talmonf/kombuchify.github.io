@@ -10,16 +10,16 @@ Der Hauptbehälter wird für die erste Gärung verwendet.
 
 Wie man einen guten Behälter auswählt:
 
--   Groß genug (mehr als 2L). Es gibt keinen Behälter, der zu groß ist!
+-   Gross genug (mehr als 2L). Es gibt keinen Behälter, der zu gross ist!
 -   Material: Glas oder Keramik, aber vorzugsweise Glas, damit man prüfen kann, was darin passiert!
--   Eine ausreichend große obere Öffnung
+-   Eine ausreichend grosse obere Öffnung
 
 Unsere Wahl:
 [Bormioli Rocco - 3L Fido Einmachglas](https://www.bormiolirocco.com/en/product/264/jar-101-1-2-oz-fido)
 
 <details><summary>🇨🇭 Ratschläge für Leute, die in der Schweiz wohnen</summary>
 
-Das **Bormioli Rocco - 3L Fido Einmachglas** kann leicht in (großen) MIGROS-Filialen gekauft werden.
+Das **Bormioli Rocco - 3L Fido Einmachglas** kann leicht in (grossen) MIGROS-Filialen gekauft werden.
 [Link](https://produkte.migros.ch/bormioli-rocco-einmachglas-fido-703723200000).
 
 </details>
@@ -66,7 +66,7 @@ zu teilen!
 
 **Nur Glasflaschen** verwenden!
 
-Die Größe spielt keine Rolle, am besten sind Flaschen von 0,5 L bis 1,5 L.
+Die Grösse spielt keine Rolle, am besten sind Flaschen von 0,5 L bis 1,5 L.
 
 **WICHTIG:** Benutze Flaschen, die einen guten Druck aushalten können! (Vor allem, wenn du vorhast,
 die zweite Gärung durchzuführen)
@@ -76,7 +76,7 @@ Unsere Wahl:
 
 <details><summary>🇨🇭 Ratschläge für Leute, die in der Schweiz wohnen</summary>
 
-Die **Bormioli Rocco - Officina 1825** Flasche kann man leicht in (großen) MIGROS-Filialen finden.
+Die **Bormioli Rocco - Officina 1825** Flasche kann man leicht in (grossen) MIGROS-Filialen finden.
 [Link](https://produkte.migros.ch/bormioli-rocco-flasche-officina).
 
 </details>
@@ -87,12 +87,12 @@ Während der ersten Gärung muss der [Behälter](/equipment#behälter) vor Staub
 Bakterien geschützt werden...
 
 Ebenfalls muss der Gärprozess _atmen_, daher ist es nicht gut, den Behälter, in dem die erste Gärung
-stattfindet, komplett zu verschließen.
+stattfindet, komplett zu verschliessen.
 
 Optionen für die Abdeckung des Behälters:
 
 -   Ein Tuch
--   Ein Papierfilter (große Kaffeefilter funktionieren gut) <br/>**=> das ist wahrscheinlich die
+-   Ein Papierfilter (grosse Kaffeefilter funktionieren gut) <br/>**=> das ist wahrscheinlich die
     beste Option** ✅
 
 Zu vermeiden:
