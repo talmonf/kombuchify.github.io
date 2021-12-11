@@ -79,7 +79,7 @@ during the second fermentation:
 -   Ginger
 -   Turmeric (Kurkuma)
 -   Cinnamon stick (avoid powder)
--   cloves
+-   Cloves
 -   Mint leaves
 -   Hop (will make your kombucha taste like beer!)
 -   Hibiscus
