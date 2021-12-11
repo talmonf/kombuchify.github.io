@@ -73,12 +73,13 @@ during the second fermentation:
     -   Cherries
     -   Strawberries
     -   Mango
-    -   Pineapple
+    -   Pineapple (that's the one that create the most of gas)
     -   ...
 -   Elderflower (my favorite!)
 -   Ginger
 -   Turmeric (Kurkuma)
--   Cinnamon
+-   Cinnamon stick (avoid powder)
+-   cloves
 -   Mint leaves
 -   Hop (will make your kombucha taste like beer!)
 -   Hibiscus
