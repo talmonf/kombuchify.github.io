@@ -65,8 +65,8 @@ process:
 Here is a list of ideas of what kind of ingredients could be used for flavouring your kombucha
 during the second fermentation:
 
--   Any kind of fruits
-    -   Orange
+-   Any kind of fruits (full or smashed) or syrop
+    -   Orange / mandarin (you can use the peel too which has a different flavor)
     -   Peach
     -   Apricot
     -   Apple
