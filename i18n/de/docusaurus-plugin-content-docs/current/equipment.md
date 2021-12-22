@@ -14,6 +14,13 @@ Wie man einen guten Behälter auswählt:
 -   Material: Glas oder Keramik, aber vorzugsweise Glas, damit man prüfen kann, was darin passiert!
 -   Eine ausreichend grosse obere Öffnung
 
+:::tip
+
+**Ein Glas mit Hahn verwenden** Dies macht es einfacher, den Kombucha zu probieren, um
+festzustellen, ob er fertig ist oder noch weiter gären muss.
+
+:::
+
 Unsere Wahl:
 [Bormioli Rocco - 3L Fido Einmachglas](https://www.bormiolirocco.com/en/product/264/jar-101-1-2-oz-fido)
 
@@ -83,15 +90,17 @@ Die **Bormioli Rocco - Officina 1825** Flasche kann man leicht in (grossen) MIGR
 
 ## Etwas zum Abdecken des Behälters {#cover}
 
-Während der ersten Gärung muss der [Behälter](/equipment#container) vor Staub, Schimmel und fremden
-Bakterien geschützt werden...
+Während der ersten Gärung muss der [Behälter](/equipment#container) vor Staub, Insekten, Schimmel
+und fremde Bakterien...
 
 Ebenfalls muss der Gärprozess _atmen_, daher ist es nicht gut, den Behälter, in dem die erste Gärung
-stattfindet, komplett zu verschliessen.
+stattfindet, komplett zu verschliessen. Wenn nicht genügend Luftzufuhr vorhanden ist, erhöht sich
+der Alkohol im Kombucha. Und das vollständige Verschliessen des Behälters verhindert, dass der
+Kombucha richtig zu fermentieren.
 
 Optionen für die Abdeckung des Behälters:
 
--   Ein Tuch
+-   Ein Tuch (engmaschig ist besser, sonst können kleine Dinge durchkommen!)
 -   Ein Papierfilter (grosse Kaffeefilter funktionieren gut) <br/>**=> das ist wahrscheinlich die
     beste Option** ✅
 
