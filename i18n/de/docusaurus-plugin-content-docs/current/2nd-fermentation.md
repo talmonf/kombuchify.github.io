@@ -78,7 +78,6 @@ der zweiten Gärung verwenden kannst:
     -   Kirschen
     -   Erdbeeren
     -   Mango
-    -   Ananas
     -   Ananas (⚠️ viel Gas!)
     -   Kiwi (⚠️ viel Gas!)
     -   ...
