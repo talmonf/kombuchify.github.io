@@ -149,7 +149,7 @@ Behälter mit einer anderen Grösse verwenden, passen Sie die Mengen entsprechen
 
     :::
 
-    :::tip Am Ende ist kein Zucker mehr übrig!
+    :::tip Am Ende ist (fast) kein Zucker mehr übrig!
 
     Nach der Gärung ist **viel weniger Zucker** (und auch weniger Theine) im Kombucha übrig. Du
     kannst ihn also unbedenklich trinken, auch wenn du Zucker in deiner Ernährung vermeiden willst.
