@@ -65,15 +65,17 @@ process:
 Here is a list of ideas of what kind of ingredients could be used for flavouring your kombucha
 during the second fermentation:
 
--   Any kind of fruits (full or smashed) or syrop
-    -   Orange / Mandarin / Lemon (you can use the peel too which has a different flavor)
+-   Any kind of fruits (cut in pieces, smashed or blended)
+    -   Orange / Tangerine / Clementine / Lemon... (you can use the peel too, which has a different
+        flavor)
     -   Peach
-    -   Apricot
+    -   Apricot (⚠️ lots of gas!)
     -   Apple
     -   Cherries
     -   Strawberries
     -   Mango
-    -   Pineapple (that's the one that create the most of gas)
+    -   Pineapple (⚠️ lots of gas!)
+    -   Kiwi (⚠️ lots of gas!)
     -   ...
 -   Elderflower (my favorite!)
 -   Ginger
@@ -81,8 +83,9 @@ during the second fermentation:
 -   Cinnamon stick (avoid powder)
 -   Cloves
 -   Mint leaves
--   Hop (will make your kombucha taste like beer!)
+-   Hop (will make your kombucha taste like beer!) (⚠️ lots of gas!)
 -   Hibiscus
+-   Sirup
 -   ...
 
 Obviously you can put multiple ingredients at once and make all kinds of mixes!
