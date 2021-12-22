@@ -69,23 +69,28 @@ Um Unfälle zu vermeiden, solltest du daher bei der Gärung einige Dinge beachte
 Hier findest du eine Liste mit Ideen, welche Zutaten du zum Aromatisieren deines Kombuchas während
 der zweiten Gärung verwenden kannst:
 
--   Jegliche Art von Obst
-    -   Orange
+-   Jede Art von Obst (in Stücke geschnitten, zerdrückt oder püriert)
+    -   Orange / Mandarine / Clementine / Zitrone... (man kann auch die Schale verwenden, die hat
+        einen anderen Geschmack)
     -   Pfirsich
-    -   Aprikose
+    -   Aprikose (⚠️ viel Gas!)
     -   Apfel
     -   Kirschen
     -   Erdbeeren
     -   Mango
     -   Ananas
+    -   Ananas (⚠️ viel Gas!)
+    -   Kiwi (⚠️ viel Gas!)
     -   ...
 -   Holunderblüten (mein Favorit!)
 -   Ingwer
 -   Gelbwurz (Kurkuma)
--   Zimt
+-   Zimtstange (Pulver vermeiden)
+-   Nelken
 -   Minzblätter
--   Hopfen (damit Ihr Kombucha wie Bier schmeckt!)
+-   Hopfen (damit Ihr Kombucha wie Bier schmeckt!) (⚠️ viel Gas!)
 -   Hibiskus
+-   Sirup
 -   ...
 
 Natürlich kannst du mehrere Zutaten auf einmal verwenden und alle möglichen Mischungen herstellen!

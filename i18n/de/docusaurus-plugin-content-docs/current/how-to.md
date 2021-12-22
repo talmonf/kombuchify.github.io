@@ -136,7 +136,9 @@ Behälter mit einer anderen Grösse verwenden, passen Sie die Mengen entsprechen
 6.  **80g** Zucker hinzufügen (pro Liter)
 
     -   Jeder Zucker ist geeignet
-    -   Am besten ist es, Bio-Rohrzucker zu verwenden.
+    -   Am besten ist es, Bio-Rohrzucker zu verwenden, aber jede Quelle von echtem Zucker
+        funktioniert, auch Sirup, nur sollte man unechten Zucker wie Stevia bei der ersten
+        Fermentation vermeiden.
 
     <br/>
 
@@ -149,8 +151,11 @@ Behälter mit einer anderen Grösse verwenden, passen Sie die Mengen entsprechen
 
     :::tip Am Ende ist kein Zucker mehr übrig!
 
-    Nach der Gärung ist **kein Zucker** mehr im Kombucha übrig. Du kannst ihn also unbedenklich
-    trinken, auch wenn du Zucker in deiner Ernährung vermeiden willst.
+    Nach der Gärung ist **viel weniger Zucker** (und auch weniger Theine) im Kombucha übrig. Du
+    kannst ihn also unbedenklich trinken, auch wenn du Zucker in deiner Ernährung vermeiden willst.
+
+    Je länger du wartest (je länger du den Kombucha gären lässt), desto weniger Zucker und Thein
+    sind im fertigen Getränk enthalten.
 
     :::
 
@@ -174,11 +179,14 @@ Behälter mit einer anderen Grösse verwenden, passen Sie die Mengen entsprechen
 
 Der Gärungsprozess ist der einfachste, er erfordert nur ein wenig Geduld.
 
-1. Das Gefäss, in dem du deine Mischung zubereitet hast, abdecken.
+1. Das Gefäss, in dem du deine Mischung zubereitet hast, abdecken. Siehe
+   [diese Seite](/equipment#cover) für detaillierte Ratschläge.
 
-    - Zum Abdecken des Gefässes ein Tuch, einen Kaffeefilter oder etwas anderes verwenden, das
-      verhindert, dass Staub oder Bakterien in das Gefäss gelangen können, während es gärt. Siehe
-      [diese Seite](/equipment#cover) für detaillierte Ratschläge.
+    - Zur Abdeckung des Gefässes ein Tuch, einen Kaffeefilter oder etwas anderes verwenden, das
+      verhindert, dass Staub oder Insekten während der Gärung in das Gefäss gelangen. Die Insekten
+      werden vom CO2 angezogen, das bei der Gärung entsteht. Das Risiko einer bakteriellen
+      Kontamination ist aufgrund des Säuregehalts der Lösung gering. Das Abdecken des Behälters
+      verringert auch das (relativ geringe) Risiko von Schimmel im Gefäss.
 
 2. Den Kombucha 7 Tage lang gären lassen.
 
@@ -190,8 +198,9 @@ Der Gärungsprozess ist der einfachste, er erfordert nur ein wenig Geduld.
       ist oder nicht.
     - In wärmeren Umgebungen verläuft die Gärung tendenziell schneller.
 
-3. Im Allgemeinen sollte der Gärungsprozess nicht gestört werden, d.h. wenn es nicht wirklich
-   notwendig ist, lassen Sie ihn die nächsten 7 Tage in Ruhe.
+3. Im Allgemeinen sollte der Fermentationsprozess nicht gestört werden, sonst sieht Ihr
+   SCOBY-Pellikel nicht schön aus. Wenn es also nicht wirklich notwendig ist, lassen Sie es in den
+   kommenden 7 Tagen in Ruhe.
 
 4. Manchmal entsteht bei der Gärung eine Menge Gas. Wenn das passiert, kann der SCOBY durch eine
    grosse Gasblase in die Luft gehoben werden. Es ist gut, diese Blase heraus zu lassen, damit der
