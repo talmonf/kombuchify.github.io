@@ -14,6 +14,13 @@ How to chose a good container:
 -   Material: glas or ceramic, but preferably glas, so that you can see what's happening inside!
 -   A big enough opening on the top
 
+:::tip
+
+**Use a jar that has tap.** This makes it easier to taste the kombucha to see if it is ready or
+needs more fermentation.
+
+:::
+
 Our choice:
 [Bormioli Rocco - 3L Fido Glass Jar](https://www.bormiolirocco.com/en/product/264/jar-101-1-2-oz-fido)
 
@@ -81,14 +88,16 @@ The **Bormioli Rocco - Officina 1825** can easily be found in (big) MIGROS store
 ## Something to cover the container {#cover}
 
 While doing the first fermentation, the [container](/equipment#container) needs to be protected from
-dust, mold and foreign bacteria...
+dust, insects, mold and foreign bacteria...
 
 Also the fermentation process need to _breath_ so it is not good to completely close the container
-in wich the first fermentation is happening.
+in wich the first fermentation is happening. Not allowing sufficient airflow causes higher levels of
+alcohol in the kombucha. And closing the container completely will prevent the kombucha from
+fermenting properly.
 
 Options for covering the container:
 
--   A cloth
+-   A cloth (tight-weave is better, else small things might get through!)
 -   A paper filter (big coffee filters work well) <br/>**=> this is most likely the best option** ✅
 
 To avoid:

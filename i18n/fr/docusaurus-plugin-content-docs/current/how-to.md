@@ -139,7 +139,9 @@ récipient de taille différente, adaptez les quantités en conséquence.
 6.  Ajouter **80g** de sucre (par litre)
 
     -   N'importe quel sucre fera l'affaire
-    -   Le mieux est d'utiliser du sucre de canne biologique
+    -   Le mieux est d'utiliser du sucre de canne biologique, mais toute source de vrai sucre
+        fonctionnera, même le sirop. Évitez simplement le faux sucre comme la Stevia dans la
+        première fermentation.
 
     <br/>
 
@@ -150,10 +152,14 @@ récipient de taille différente, adaptez les quantités en conséquence.
 
     :::
 
-    :::tip Il ne reste plus de sucre à la fin !
+    :::tip Il ne reste (presque) plus de sucre à la fin !
 
-    Après la fermentation, il n'y aura **plus de sucre** dans le kombucha. Vous pouvez donc en toute
-    sécurité le boire même si vous voulez éviter le sucre dans votre alimentation.
+    Après la fermentation, il y aura **beaucoup moins de sucre** (et également moins de théine) dans
+    le kombucha. Vous pouvez donc le boire en toute sécurité même si vous souhaitez éviter le sucre
+    dans votre alimentation.
+
+    Plus vous attendez (plus vous laissez le kombucha fermenter longtemps), moins il y aura de sucre
+    et de théine dans la boisson finale.
 
     :::
 
@@ -178,11 +184,14 @@ récipient de taille différente, adaptez les quantités en conséquence.
 
 Le processus de fermentation est le plus simple, il demande juste un peu de patience.
 
-1. Couvrez le récipient où vous avez préparé votre mélange de fermentation.
+1. Couvrez le récipient où vous avez préparé votre mélange de fermentation. Visitez
+   [cette page](/equipment#cover) pour des conseils détaillés.
 
-    - Pour couvrir le récipient, utilisez un tissu, un filtre à café ou toute autre chose qui
-      empêche la poussière ou les bactéries de pénétrer dans le récipient pendant la fermentation.
-      Visitez [cette page](/equipment#cover) pour des conseils détaillés.
+    - Pour couvrir le récipient, utilisez un tissu, un filtre à café ou toute autre chose qui empêche
+      la poussière ou les insectes de pénétrer dans le récipient pendant qu'il fermente. Les
+      insectes sont attirés par le CO2 produit par la fermentation. Le risque de contamination
+      bactérienne est faible en raison de l'acidité de la solution. Le fait de couvrir le récipient
+      réduira également le risque (relativement faible) d'apparition de moisissures.
 
 2. Laissez le kombucha fermenter pendant 7 jours.
 
@@ -195,8 +204,9 @@ Le processus de fermentation est le plus simple, il demande juste un peu de pati
       terminée ou non.
     - La fermentation a tendance à être plus rapide dans les environnements plus chauds.
 
-3. En règle générale, le processus de fermentation ne doit pas être perturbé. Donc, à moins que ce
-   ne soit vraiment nécessaire, laissez-le tranquille pendant les 7 jours à venir.
+3. D'une manière générale, le processus de fermentation ne doit pas être perturbé, sinon la
+   pellicule de votre SCOBY ne sera pas belle à voir. Donc, à moins que ce ne soit vraiment
+   nécessaire, laissez-le tranquille pendant les 7 jours à venir.
 
 4. Parfois, la fermentation produit beaucoup de gaz. Dans ce cas, le SCOBY peut être soulevé en
    l'air par une grosse bulle de gaz. Il est bon de libérer cette bulle pour laisser le SCOBY

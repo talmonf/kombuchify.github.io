@@ -69,23 +69,27 @@ procédez à ce processus de fermentation :
 Voici une liste d'idées d'ingrédients qui pourraient être utilisés pour aromatiser votre kombucha
 pendant la deuxième fermentation :
 
--   Tout type de fruits
-    -   Orange
+-   Toute sorte de fruits (coupés en morceaux, écrasés ou mixés)
+    -   Orange / Mandarine / Clémentine / Citron... (vous pouvez aussi utiliser le zeste, qui a une
+        saveur différente).
     -   Pêche
-    -   Abricot
+    -   Abricot (⚠️ beaucoup de gaz !)
     -   Pomme
     -   Cerises
     -   Fraises
     -   Mangue
-    -   Ananas
+    -   Ananas (⚠️ beaucoup de gaz !)
+    -   Kiwi (⚠️ beaucoup de gaz !)
     -   ...
 -   Fleur de sureau (mon préféré !)
 -   Gingembre
 -   Curcuma
--   Cannelle
+-   Bâton de cannelle (éviter la poudre)
+-   Clous de girofle
 -   Feuilles de menthe
--   Houblon (donnera à votre kombucha le goût de la bière !)
+-   Houblon (donnera à votre kombucha le goût de la bière !) (⚠️ beaucoup de gaz !)
 -   Hibiscus
+-   Sirop
 -   ...
 
 Évidemment, vous pouvez mettre plusieurs ingrédients à la fois et faire toutes sortes de mélanges !

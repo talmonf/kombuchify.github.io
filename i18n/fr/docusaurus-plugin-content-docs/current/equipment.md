@@ -15,6 +15,13 @@ Comment choisir un bon récipient :
     se passe à l'intérieur !
 -   Une ouverture assez grande sur le dessus
 
+:::tip
+
+**Utilisez un bocal muni d'un robinet.** Cela permet de goûter plus facilement le kombucha pour
+savoir s'il est prêt ou s'il a besoin de plus de fermentation.
+
+:::
+
 Notre choix :
 [Bormioli Rocco - Pot en verre Fido 3L](https://www.bormiolirocco.com/en/product/264/jar-101-1-2-oz-fido)
 
@@ -87,14 +94,17 @@ magasins MIGROS. [Lien](https://produkte.migros.ch/bormioli-rocco-flasche-offici
 ## Quelque chose pour couvrir le récipient {#cover}
 
 Pendant la première fermentation, le [récipient](/equipment#container) doit être protégé contre la
-poussière, les moisissures et les bactéries étrangères...
+poussière, les insectes, les moisissures et les bactéries étrangères...
 
 De plus, le processus de fermentation a besoin de "respirer", il n'est donc pas bon de fermer
-complètement le récipient dans lequel la première fermentation a lieu.
+complètement le récipient dans lequel la première fermentation a lieu. Le fait de ne pas permettre
+une circulation d'air suffisante entraîne une augmentation du taux d'alcool dans le kombucha. Et le
+fait de fermer complètement le récipient empêchera le kombucha de fermenter correctement.
 
 Options pour couvrir le récipient :
 
--   Un tissu
+-   Un tissu (un tissage serré est préférable, sinon les petites choses pourraient passer à travers
+    !)
 -   Un filtre en papier (les gros filtres à café fonctionnent bien) <br/>**=> c'est très
     probablement la meilleure option** ✅.
 
