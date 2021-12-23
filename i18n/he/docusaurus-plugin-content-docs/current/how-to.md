@@ -138,7 +138,8 @@ different size, make the required adjustments to the quantities.
 6.  Add **80g** of sugar (per Liter)
 
     -   Any sugar will do
-    -   Best is to use organic cane sugar
+    -   Best is to use organic cane sugar but any source of real sugar will work even syrup, just
+        avoid fake sugar like Stevia in the first fermentation.
 
     <br/>
 
@@ -149,10 +150,13 @@ different size, make the required adjustments to the quantities.
 
     :::
 
-    :::tip No more sugar left at the end!
+    :::tip (Almost) no more sugar left at the end!
 
-    After the fermentation there will be **no more sugar** left in the kombucha. So you are safe to
-    drink it even if you want to avoid sugar in your diet.
+    After the fermentation there will be **way less sugar** (and less theine too) left in the
+    kombucha. So you are safe to drink it even if you want to avoid sugar in your diet.
+
+    The more you wait (the longer you allow the kombucha to ferment) the less sugar and theine will
+    be present in the final beverage.
 
     :::
 
@@ -176,11 +180,14 @@ different size, make the required adjustments to the quantities.
 
 The fermentation process is the most simple one, it just requires a little bit of patience.
 
-1. Cover the container where you have prepared your brewing mixture.
+1. Cover the container where you have prepared your brewing mixture. See
+   [this page](/equipment#cover) for detailed advice.
 
-    - To cover the container use a cloth, coffee filter or anything that prevents dust or bacteria
-      to get into the container while it is fermenting, see [this page](/equipment#cover) for
-      detailed advice.
+    - To cover the container use a cloth, coffee filter or anything that prevents dust or insects to
+      enter into the container while it is fermenting. The insets are attracted by CO2 produced by
+      the fermentation. The risk of bacteria contamination is low because of the acidity of the
+      solution. Covering the container will also reduce the (relatively low) risk of getting mold
+      inside.
 
 2. Let the kombucha ferment for 7 days.
 
@@ -191,8 +198,8 @@ The fermentation process is the most simple one, it just requires a little bit o
     - You can taste your kombucha from time to time to check if the fermentation is over or not.
     - The fermentation tends to be faster in warmer environments.
 
-3. Generally speaking the fermentation process should not be disturbed, so unless it is really
-   necessary, just leave it alone for the 7 days to come.
+3. Generally speaking the fermentation process should not be disturbed or your SCOBY pellicle will
+   not look nice. So, unless it is really necessary, just leave it alone for the 7 days to come.
 
 4. Sometimes the fermentation produces a lot of gas. When that happens, the SCOBY might get lifted
    into the air by a big bubble of gas. It is god to pop out that bubble to let the SCOBY touch the
