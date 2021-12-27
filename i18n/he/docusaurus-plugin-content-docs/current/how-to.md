@@ -10,37 +10,37 @@ title: 📖  איך מכינים קמבוצ'ה
 
 ## 📌 מתכון פשוט {#simple-recipe}
 
-:::tip
+:::tip טיפ
 
-**If you are not yet familiar with the process of brewing kombucha, it's advised to first carefully
-read the 🔬 [Detailed instructions](/#detailed-instructions).**
+** אם אתם לא מכירים את תהליך הכנת הקמבוצ'ה, כדאי לקרוא בעיון את
+ 🔬 [ההוראות מפורטות](/#detailed-instructions).**
 
 :::
 
 ### 🥣 הכנה {#preparation}
 
-_(For a 3L [container](/equipment#container))_
+_([מיכל](/equipment#container) של 3 ליטר)_
 
-1. [container](/equipment#container) with
-    - a **[SCOBY](/equipment#scoby)**
-    - 1 cup of fermented **kombucha** (⚠️ unflavored!)
-2. **1L** of black tea (room temperature)
-3. **80g** of sugar
-4. Mix **sugar and tea**
-5. Pour the mix into the container
-6. Fill the rest of the container with **water**
+1. [מיכל](/equipment#container) עם
+    - סקובי (**[SCOBY](/equipment#scoby))**
+    - כוס אחת של **קמבוצ'ה** מותססת (⚠️ ללא תיבול!)
+2. **ליטר אחד** תה שחור (טמפרטורת חדר)
+3. **80 גרם** סוכר
+4. ערבב את **הסוכר והתה**
+5. מזוג את התערובת לתוך המיכל
+6. מלא את המיכל  **במים**
 
 ### 🧘🏻 תסיסה {#fermentation}
 
-1. Cover the container
-2. Ferment for 7 days
+1. כסה את המיכל
+2. השאר לתסיסה למשך 7 ימים
 
 ### 🍺 תהנו {#enjoy}
 
-1. Pour kombucha into [bottles](/equipment#bottles) for storage
-2. Put the SCOBY and 1 cup of kombucha aside
-3. Clean the container
-4. Restart a [new cycle](/#preparation).
+1. מזוג את הקמבוצ'ה [לבקבוקים](/equipment#bottles) לאחסון
+2. שים בצד את הסקובי וכוס אחת של קמבוצ'ה
+3. נקה את המיכל
+4. התחל [מחזור חדש](/#preparation)
 
 ### בונוס: 🍾 [תסיסה שנייה](/2nd-fermentation) {#bonus--2nd-fermentation}
 
@@ -48,50 +48,48 @@ _(For a 3L [container](/equipment#container))_
 
 ### 🪧 הקדמה וציוד נדרש {#introduction-and-prerequisites}
 
-Brewing kombucha is very simple, yet it requires some basic knowledge and some good equipment to
-work with.
+תהליך הכנת קמבוצ'ה הוא פשוט אך נדרשים ידע בסיסי וציוד טוב
 
 #### 🛠 [ציוד](/equipment) {#equipment}
 
-In a very minimal set up you will need:
+ציוד דרוש (בסיסי):
 
--   A big glas [container](/equipment#container)
--   A [SCOBY](/equipment#scoby)
--   1 cup (~ 250mL) of kombucha
--   [Bottles](/equipment#bottles) for storing kombucha
--   [Something to cover the container](/equipment#cover) (cloth, coffee filter...)
--   A rubber band
--   Black tea
--   Sugar
--   Water
+-   [מיכל](/equipment#container)  זכוכית גדולה
+-   [סקובי](/equipment#scoby)
+-   כוס אחת (250 מ"ל) של קמבוצ'ה
+-   [בקבוקים](/equipment#bottles) לאחסון קמבוצ'ה
+-   [משהו לכסות את המיכל](/equipment#cover) (בד, פילטר קפה...)
+-   גומיה
+-   תה שחור
+-   סוכר
+-   מים
 
-Optionally you could use these tools for working more comfortably:
+לחילופין אפשר להשתמש בכלים אלו לעבודה יותר נוחה:
 
--   A funnel
--   A fine mesh food strainer
--   A scale for weighting the sugar
--   A container for mixing tea and sugar
--   A whisk
+-   משפך
+-   מסננת רשת עדינה
+-   משקל לשקילת הסוכר
+-   כלי לערבוב התה והסוכר
+-   מקצף
 
-:::note info
+:::note מידע
 
-Visit [this page](/equipment) to find advices on how to chose your equipment.
+בקר [כאן](/equipment) לקבלת עצות לקנות ציוד טוב.
 
 :::
 
 #### 💡 עצות כלליות {#general-advices}
 
--   Always work in a very clean environment
+-   דאג תמיד לסביבת עבודה נקיה, בלי: 
 
-    -   Avoid dust
-    -   Avoid sources of mold
+    -   אבק
+    -   עובש
 
--   Only use organic ingredients
+-   השתמש ברכיבים אורגניים בלבד
 
-    -   As kombucha is kind of a living organism, it is best to feed it exclusively with organic
-        products. If you're not convinced, try both and see the difference in taste and feeling.
-
--   Use clean drinking water
+    -   קמבוצ'ה היא סוג של אורגניזם חי, ולכן עדיף להאכילו מוצרים אורגניים בלבד. אם אתה לא משוכנע, נסה בעצמך ותיווכח בהבדל בטעם ובמרגש
+    
+-   השתמש במי שתייה נקיים
 
     -   If the water from you sink isn't clean (if it contains chlorine or other nasty things) it
         might disturb the SCOBY. Try to find a filter or another source of clean drinking water.

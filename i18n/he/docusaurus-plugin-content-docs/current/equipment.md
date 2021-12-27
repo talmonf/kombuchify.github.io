@@ -4,7 +4,7 @@ slug: /equipment
 title: 🛠 ציוד
 ---
 
-## כלי {#container}
+## מיכל {#container}
 
 The main container is used for the first fermentation.
 
@@ -85,7 +85,7 @@ The **Bormioli Rocco - Officina 1825** can easily be found in (big) MIGROS store
 
 </details>
 
-## כיסוי הכלי {#cover}
+## כיסוי המיכל {#cover}
 
 While doing the first fermentation, the [container](/equipment#container) needs to be protected from
 dust, insects, mold and foreign bacteria...
