@@ -79,7 +79,7 @@ Visit [this page](/equipment) to find advice on how to choose your equipment.
 
 :::
 
-#### 💡 Some general advices {#general-advices}
+#### 💡 Some general advice {#general-advices}
 
 -   Always work in a very clean environment
 
