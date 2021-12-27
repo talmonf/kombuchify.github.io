@@ -55,7 +55,7 @@ work with.
 
 In a very minimal set up you will need:
 
--   A big glas [container](/equipment#container)
+-   A big glass [container](/equipment#container)
 -   A [SCOBY](/equipment#scoby)
 -   1 cup (~ 250mL) of kombucha
 -   [Bottles](/equipment#bottles) for storing kombucha
@@ -75,7 +75,7 @@ Optionally you could use these tools for working more comfortably:
 
 :::note info
 
-Visit [this page](/equipment) to find advices on how to chose your equipment.
+Visit [this page](/equipment) to find advice on how to choose your equipment.
 
 :::
 
