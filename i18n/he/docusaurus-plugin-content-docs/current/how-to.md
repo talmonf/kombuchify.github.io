@@ -91,83 +91,74 @@ _([מיכל](/equipment#container) של 3 ליטר)_
     
 -   השתמש במי שתייה נקיים
 
-    -   If the water from you sink isn't clean (if it contains chlorine or other nasty things) it
-        might disturb the SCOBY. Try to find a filter or another source of clean drinking water.
+    -   אם מי הברז שלך אינם נקיים (או מכילים כלור וכדומה) זה יכול לפגוע בסקובי. נסה להשתמש במסנן או מקור אחר של מי שתייה נקיים.
 
--   Chose a good spot for your fermentation
+-   בחר מקום טוב לתסיסה
 
-    -   No direct sun-light
-    -   The air must circulate normally (avoid putting it inside of cupboard)
-    -   Not too cold (room temperature is perfect)
-    -   Not too warm
+    -   ללא אור שמש ישיר
+    -   עם זרימת אויר (לא בארון למשל)
+    -   לא קר מדי (טמפרטורת חדר רצויה)
+    -   לא חם מדי
 
 ### 🥣 התחילו סבב תסיסה חדש {#start}
 
 :::info
 
-These instructions are for a 3L [container](/equipment#container), if you are using a container of a
-different size, make the required adjustments to the quantities.
-
+הוראות אלו הן עבור _[מיכל](/equipment#container) של 3 ליטר_. אם אתה משתמש במיכל בגודל אחר, עשה את ההתאמות הנדרשות לכמויות.
+ 
 :::
 
-1.  Prepare an empty (and clean) [container](/equipment#container) with
+1.הכן  _[מיכל](/equipment#container) _ ריק (ונקי) עם:
 
-    -   a **[SCOBY](/equipment#scoby)**
-    -   1 cup (~ 250mL) of fermented **kombucha** (⚠️ unflavored!)
-        -   The kombucha that is required here is for the SCOBY: it needs to have a minimal sense of
-            "home feeling" so that the fermentation can start.
-        -   1 cup is the minimum, if there is a bit more than that it's totally fine
+    -    **[סקובי](/equipment#scoby)**
+    -   כוס אחת (~ 250 מ"ל) של **קמבוצ'ה** מותסס (⚠️ לא מתובל!)
+        -   הקמבוצ'ה שנדרשת כאן היא בשביל הסקובי: חייב שתהיה לו תחושה "ביתית" כדי שהתסיסה תוכל להתחיל
+        -   כוס אחת זו המינימום, אפשר בהחלט קצת יותר
+    
 
-2.  Make **1L** of black tea
+2.  הכן **ליטר** תה שחור
 
-    -   Use something like 3 to 4 bags of tea per Liter. Basically one bag per cup.
-    -   Other teas (like green tea) are also possible to use, but it is advised to start with black
-        tea as it is the easiest. <br/>⚠️**Kombucha needs theine**.
+    -   השתמש ב-3 או 4 שקיות תה לליטר, בעקרון שקית אחת לכוס    
+    -   אפשר להשתמש גם בסוגי תה אחרים (כמו תה ירוק) אבל מומלץ להתחיל עם תה שחור כי זה הכי קל. <br/>⚠️**קמבוצ'ה צריכה תאין (קפאין שהופק מעלי תה)**.
 
-3.  Let the tea steep for a good while (at least 20 minutes)
+3.  הנח לתה לשרות לזמן מה (לפחות 20 דקות)
 
-    -   Cold brewed teas work a well. Then obviously you will need to let it steep for a longer
-        period.
+    -   אפשר להשתמש גם בתה מבושל קר אבל אז כמובן נדרת שרייה יותר ארוכה
 
-4.  Wait that the tea is at room temperature, or do something to cool it down quickly (ice bath).
+4.  חכה עד שהתה יתקרר לטמפרטורת חדר, או קרר אותו (למשל על ידי אמבטיית קרח)
 
-5.  Strain the tea
+5.  סנן את התה
 
-6.  Add **80g** of sugar (per Liter)
+6.  הוסף **80 גרם** סוכר (פר ליטר)
 
-    -   Any sugar will do
-    -   Best is to use organic cane sugar but any source of real sugar will work even syrup, just
-        avoid fake sugar like Stevia in the first fermentation.
+    -   אפשר להשתמש בכל סוג סוכר
+    -   עדיף להשתמש בקנה סוכר אורגני אבל כל מקור של סוכר אמיתי יעבוד, כולל סירופ, אבל הימנע מסוכר לא אמיתי (כמו סטיוויה למשל) בתסיסה הראשונית.     
 
     <br/>
 
-    :::caution warning
+    :::caution אזהרה
 
-    Do not use anything else than sugar to add the sweetness. The SCOBY feeds on the sugar and it
-    cannot feed on anything else.
+    הימנע משימוש בממתיקים אחרים. הסקובי ניזון מסוכר ולא משום דבר אחר.
 
     :::
 
-    :::tip (Almost) no more sugar left at the end!
+    :::tip (כמעט) לא נשאר סוכר בסוף!
 
-    After the fermentation there will be **way less sugar** (and less theine too) left in the
-    kombucha. So you are safe to drink it even if you want to avoid sugar in your diet.
-
-    The more you wait (the longer you allow the kombucha to ferment) the less sugar and theine will
-    be present in the final beverage.
+    לאחר התסיסה יהיה **הרבה פחות** סוכר (וגם תאין) בקמבוצ'ה. אז אפשר לשתות את זה גם אתה רוצה להימנע מסוכר.
+    
+    ככל שתחכה יותר (ותאפשר לקמבוצ'ה לתסוס) גם יוקטנו כמויות הסוכר והתאין במשקה הסופי.
 
     :::
 
     <br/>
 
-7.  Mix the sugar and the tea
+7.  ערבב את הסוכר והתה
 
-    -   Use a whisk to mix the sugar into the tea and to dilute it.
-    -   If you have multiples batches to prepare, it is better to mix the sugar and the tea in a
-        different container to make sure that you have exactly 1L of tea and 80g of sugar.
-    -   It is also possible to mix the sugar and the tea while the tea is still hot.
+    -   השתמש במטרפה לערבב את הסוכר לתוך התה ולדלל אותו.
+    -   אם אתה מכין מספר אצוות, עדיף לערבב את הסוכר והתה במיכל שונה כדי לוודא שיש לך בדיוק ליטר אחד של תה ו-80 גרם של סוכר. 
+    -   אפשר לערבב את הסוכר והתה כשהתה עדיין חם.
 
-8.  Pour the mixed sugar and tea into the fermentation container
+8.  מזוג את תערובת הסוכר והתה לתוך מיכל התסיסה 
 
 9.  Fill the rest of the container with **water**
     -   Most containers have a curved border at the top. Leave the curved part empty so that the
