@@ -128,7 +128,7 @@ different size, make the required adjustments to the quantities.
 
 3.  Let the tea steep for a good while (at least 20 minutes)
 
-    -   Cold brewed teas work a well. Then obviously you will need to let it steep for a longer
+    -   Cold brewed teas work as well. Then obviously you will need to let it steep for a longer
         period.
 
 4.  Wait that the tea is at room temperature, or do something to cool it down quickly (ice bath).
